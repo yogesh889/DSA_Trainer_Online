@@ -1,15 +1,22 @@
-# DSA Trainer Online — Job Tracker
+# India DSA Trainer — Job Tracker
 
-This repository auto-tracks "online DSA Trainer" job postings on LinkedIn.
+This repository auto-tracks "DSA Trainer" job postings in India on LinkedIn.
 
-A scheduled cloud agent runs every ~5 hours, fetches LinkedIn's public,
-logged-out job search results for the phrase "online DSA Trainer", and
-records any newly seen listings here. No LinkedIn login, credentials,
-cookies, or authenticated session is ever used — only publicly viewable,
-unauthenticated pages are accessed.
+A GitHub Actions workflow (`.github/workflows/dsa-trainer-job-watch.yml`)
+runs `scrape.py` every ~5 hours. It fetches LinkedIn's public, logged-out
+guest job-search endpoint for keywords "DSA Trainer" filtered to location
+"India", and records any newly seen listings here. No LinkedIn login,
+credentials, cookies, or authenticated session is ever used — only publicly
+viewable, unauthenticated pages are accessed. The workflow only commits
+when something actually changed.
+
+You can also trigger a run manually from the repo's Actions tab
+("india-dsa-trainer-job-watch" → Run workflow).
 
 ## Files
 
+- `scrape.py` — the scraper: fetches, parses, dedupes, and writes the two
+  files below.
 - `jobs.json` — machine-readable list of every unique listing found so far.
 - `jobs.md` — the same list as a human-readable markdown table, newest first.
 
