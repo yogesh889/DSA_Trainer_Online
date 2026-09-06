@@ -1,5 +1,8 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Technical Trainer | Infosys | Mysore, Karnataka, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-infosys-4439403723) | 2026-09-06T22:08:02Z |
+| Data Marketing Trainer | NDMIT | Prayagraj, Uttar Pradesh, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/data-marketing-trainer-at-ndmit-4459475760) | 2026-09-06T22:08:02Z |
+| Assistant Professor | Intellipaat | Hyderabad, Telangana, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-at-intellipaat-4459479872) | 2026-09-06T22:08:02Z |
 | Instructor (OT) | C3iHub, IIT Kanpur | Kanpur, Uttar Pradesh, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/instructor-ot-at-c3ihub-iit-kanpur-4453522496) | 2026-09-06T17:05:52Z |
 | Trainer (Assessments) | ETS | Greater Delhi Area | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/trainer-assessments-at-ets-4422444131) | 2026-09-06T17:05:52Z |
 | Trainer | Entire Skill | Punjab, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/trainer-at-entire-skill-4462397633) | 2026-09-06T17:05:52Z |
@@ -40,7 +43,7 @@
 | Coding Mentor | Softcrayons IT Education | Gurgaon, Haryana, India | 1 month ago | [link](https://in.linkedin.com/jobs/view/coding-mentor-at-softcrayons-it-education-4443581538) | 2026-09-06T16:37:25Z |
 | Technical Trainer | Parul University | Vadodara, Gujarat, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-parul-university-4458393186) | 2026-09-06T16:37:25Z |
 | Specialist - AI Trainer | Accenture in India | Hyderabad, Telangana, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/specialist-ai-trainer-at-accenture-in-india-4448328722) | 2026-09-06T16:37:25Z |
-| IT Trainer | Larsen & Toubro | Mumbai, Maharashtra, India | 6 days ago | [link](https://in.linkedin.com/jobs/view/it-trainer-at-larsen-toubro-4451325839) | 2026-09-06T16:37:25Z |
+| IT Trainer | Larsen & Toubro | Mumbai, Maharashtra, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/it-trainer-at-larsen-toubro-4451325839) | 2026-09-06T16:37:25Z |
 | Services Training Engineer | Alstom | Saharanpur, Uttar Pradesh, India | 1 month ago | [link](https://in.linkedin.com/jobs/view/services-training-engineer-at-alstom-4438796390) | 2026-09-06T16:37:25Z |
 | Faculty - Computer Science, AI & Mathematics | Newton School | Sonipat, Haryana, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/faculty-computer-science-ai-mathematics-at-newton-school-4463399100) | 2026-09-06T16:37:25Z |
 | Full Stack Instructor | upGrad | Bhopal, Madhya Pradesh, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/full-stack-instructor-at-upgrad-4456839583) | 2026-09-06T16:37:25Z |
