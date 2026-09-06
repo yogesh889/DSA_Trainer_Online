@@ -1,1 +1,542 @@
-[]
+[
+  {
+    "id": "4449055872",
+    "title": "Technical Trainer",
+    "company": "Mediclogical Solutions PVT LTD",
+    "location": "Home, KS",
+    "posted": "1 month ago",
+    "url": "https://www.linkedin.com/jobs/view/technical-trainer-at-mediclogical-solutions-pvt-ltd-4449055872",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4457745783",
+    "title": "Cybersecurity Trainer",
+    "company": "Partnerverse",
+    "location": "Indiana, United States",
+    "posted": "1 week ago",
+    "url": "https://www.linkedin.com/jobs/view/cybersecurity-trainer-at-partnerverse-4457745783",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4460451269",
+    "title": "Technical Trainer - Software Engineering",
+    "company": "Bloomberg",
+    "location": "New York, NY",
+    "posted": "3 days ago",
+    "url": "https://www.linkedin.com/jobs/view/technical-trainer-software-engineering-at-bloomberg-4460451269",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4402644687",
+    "title": "Member Technical Staff",
+    "company": "Doulos",
+    "location": "Time, IL",
+    "posted": "4 months ago",
+    "url": "https://www.linkedin.com/jobs/view/member-technical-staff-at-doulos-4402644687",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4278764088",
+    "title": "Software Trainer",
+    "company": "SOMA Global",
+    "location": "Baton Rouge, LA",
+    "posted": "1 year ago",
+    "url": "https://www.linkedin.com/jobs/view/software-trainer-at-soma-global-4278764088",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4450098538",
+    "title": "AI Trainer",
+    "company": "Partnerverse",
+    "location": "Indiana, United States",
+    "posted": "1 month ago",
+    "url": "https://www.linkedin.com/jobs/view/ai-trainer-at-partnerverse-4450098538",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4452304019",
+    "title": "Technology Educator",
+    "company": "Optiver",
+    "location": "Chicago, IL",
+    "posted": "4 days ago",
+    "url": "https://www.linkedin.com/jobs/view/technology-educator-at-optiver-4452304019",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4388395389",
+    "title": "STEM Education Jobs India",
+    "company": "Rex.zone",
+    "location": "United States",
+    "posted": "2 weeks ago",
+    "url": "https://www.linkedin.com/jobs/view/stem-education-jobs-india-at-rex-zone-4388395389",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4451653499",
+    "title": "Instructor - Agentic AI",
+    "company": "Fullstack Academy",
+    "location": "United States",
+    "posted": "3 weeks ago",
+    "url": "https://www.linkedin.com/jobs/view/instructor-agentic-ai-at-fullstack-academy-4451653499",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4414661511",
+    "title": "AI Software Engineering Teaching Experts",
+    "company": "TripleTen",
+    "location": "United States",
+    "posted": "3 months ago",
+    "url": "https://www.linkedin.com/jobs/view/ai-software-engineering-teaching-experts-at-tripleten-4414661511",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4425674792",
+    "title": "Technical Trainer",
+    "company": "Genetec",
+    "location": "Detroit, MI",
+    "posted": "2 months ago",
+    "url": "https://www.linkedin.com/jobs/view/technical-trainer-at-genetec-4425674792",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4425906001",
+    "title": "Technical Trainer",
+    "company": "Genetec",
+    "location": "Chicago, IL",
+    "posted": "2 months ago",
+    "url": "https://www.linkedin.com/jobs/view/technical-trainer-at-genetec-4425906001",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4441793377",
+    "title": "Technical Trainer",
+    "company": "Harmonic",
+    "location": "Philadelphia, PA",
+    "posted": "5 days ago",
+    "url": "https://www.linkedin.com/jobs/view/technical-trainer-at-harmonic-4441793377",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4455924495",
+    "title": "Middle School Computer Science Teacher",
+    "company": "Stride, Inc.",
+    "location": "Alabama, United States",
+    "posted": "2 weeks ago",
+    "url": "https://www.linkedin.com/jobs/view/middle-school-computer-science-teacher-at-stride-inc-4455924495",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4449687759",
+    "title": "Coding Education Specialist, Remote",
+    "company": "Mass General Brigham",
+    "location": "Somerville, MA",
+    "posted": "1 month ago",
+    "url": "https://www.linkedin.com/jobs/view/coding-education-specialist-remote-at-mass-general-brigham-4449687759",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4421148499",
+    "title": "NETW/ITS Full-time Faculty",
+    "company": "Black Hawk College",
+    "location": "Moline, IL",
+    "posted": "3 months ago",
+    "url": "https://www.linkedin.com/jobs/view/netw-its-full-time-faculty-at-black-hawk-college-4421148499",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4434657498",
+    "title": "AI Educator, The Rundown",
+    "company": "Electrify",
+    "location": "United States",
+    "posted": "2 days ago",
+    "url": "https://www.linkedin.com/jobs/view/ai-educator-the-rundown-at-electrify-4434657498",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4460692550",
+    "title": "Trainer I - Coding Training Education",
+    "company": "MaineHealth",
+    "location": "Scarborough, ME",
+    "posted": "4 days ago",
+    "url": "https://www.linkedin.com/jobs/view/trainer-i-coding-training-education-at-mainehealth-4460692550",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4448215695",
+    "title": "Lecturer - AI Engine",
+    "company": "Purdue University Institute of CHIPS and AI",
+    "location": "Indianapolis, IN",
+    "posted": "1 month ago",
+    "url": "https://www.linkedin.com/jobs/view/lecturer-ai-engine-at-purdue-university-institute-of-chips-and-ai-4448215695",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4459614770",
+    "title": "High School CTE Computer Science Teacher",
+    "company": "Stride, Inc.",
+    "location": "Arkansas, United States",
+    "posted": "1 week ago",
+    "url": "https://www.linkedin.com/jobs/view/high-school-cte-computer-science-teacher-at-stride-inc-4459614770",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4425677771",
+    "title": "Technical Trainer",
+    "company": "Genetec",
+    "location": "Kansas City, KS",
+    "posted": "2 months ago",
+    "url": "https://www.linkedin.com/jobs/view/technical-trainer-at-genetec-4425677771",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4453252949",
+    "title": "Software Trainer, Jr",
+    "company": "Dunhill Professional Search & Government Solutions",
+    "location": "Ogden, UT",
+    "posted": "1 week ago",
+    "url": "https://www.linkedin.com/jobs/view/software-trainer-jr-at-dunhill-professional-search-government-solutions-4453252949",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4413749781",
+    "title": "AI Automation Teaching Experts",
+    "company": "TripleTen",
+    "location": "United States",
+    "posted": "3 months ago",
+    "url": "https://www.linkedin.com/jobs/view/ai-automation-teaching-experts-at-tripleten-4413749781",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4442288507",
+    "title": "Adjunct Technology Instructors",
+    "company": "Avila University",
+    "location": "Kansas City, MO",
+    "posted": "1 month ago",
+    "url": "https://www.linkedin.com/jobs/view/adjunct-technology-instructors-at-avila-university-4442288507",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4441631642",
+    "title": "High School Computer Science Teacher",
+    "company": "Stride, Inc.",
+    "location": "North Carolina, United States",
+    "posted": "1 month ago",
+    "url": "https://www.linkedin.com/jobs/view/high-school-computer-science-teacher-at-stride-inc-4441631642",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4438275540",
+    "title": "LEARNING FACILITATOR, Office of the Provost",
+    "company": "Boston University",
+    "location": "Boston, MA",
+    "posted": "2 weeks ago",
+    "url": "https://www.linkedin.com/jobs/view/learning-facilitator-office-of-the-provost-at-boston-university-4438275540",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4460341902",
+    "title": "Associate Instructor",
+    "company": "Neueda",
+    "location": "Illinois, United States",
+    "posted": "1 week ago",
+    "url": "https://www.linkedin.com/jobs/view/associate-instructor-at-neueda-4460341902",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4460384542",
+    "title": "Data Teaching Expert",
+    "company": "TripleTen",
+    "location": "United States",
+    "posted": "1 week ago",
+    "url": "https://www.linkedin.com/jobs/view/data-teaching-expert-at-tripleten-4460384542",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4458282870",
+    "title": "Teacher - Computer Software",
+    "company": "Wisconsin Department of Corrections",
+    "location": "Racine, WI",
+    "posted": "1 week ago",
+    "url": "https://www.linkedin.com/jobs/view/teacher-computer-software-at-wisconsin-department-of-corrections-4458282870",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4413758641",
+    "title": "Data Analysis Teaching Experts",
+    "company": "TripleTen",
+    "location": "United States",
+    "posted": "3 months ago",
+    "url": "https://www.linkedin.com/jobs/view/data-analysis-teaching-experts-at-tripleten-4413758641",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4447723128",
+    "title": "Technical Trainer, Customer & Partner Enablement",
+    "company": "NinjaOne",
+    "location": "Texas, United States",
+    "posted": "2 weeks ago",
+    "url": "https://www.linkedin.com/jobs/view/technical-trainer-customer-partner-enablement-at-ninjaone-4447723128",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4374841720",
+    "title": "Coding Educator",
+    "company": "MyMichigan Health",
+    "location": "Midland, MI",
+    "posted": "6 months ago",
+    "url": "https://www.linkedin.com/jobs/view/coding-educator-at-mymichigan-health-4374841720",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4199497551",
+    "title": "Coding Educator",
+    "company": "MyMichigan Health",
+    "location": "Midland, MI",
+    "posted": "11 months ago",
+    "url": "https://www.linkedin.com/jobs/view/coding-educator-at-mymichigan-health-4199497551",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4456642640",
+    "title": "Curriculum Development Lead",
+    "company": "Iliad",
+    "location": "Indiana, United States",
+    "posted": "2 weeks ago",
+    "url": "https://www.linkedin.com/jobs/view/curriculum-development-lead-at-iliad-4456642640",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4447721161",
+    "title": "Technical Trainer, Customer & Partner Enablement",
+    "company": "NinjaOne",
+    "location": "Oregon, United States",
+    "posted": "2 weeks ago",
+    "url": "https://www.linkedin.com/jobs/view/technical-trainer-customer-partner-enablement-at-ninjaone-4447721161",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4460982991",
+    "title": "Learning Solution Architect",
+    "company": "Spectrum Equity",
+    "location": "New York, United States",
+    "posted": "4 days ago",
+    "url": "https://www.linkedin.com/jobs/view/learning-solution-architect-at-spectrum-equity-4460982991",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4062827563",
+    "title": "Coding Educator",
+    "company": "MyMichigan Health",
+    "location": "Midland, MI",
+    "posted": "1 year ago",
+    "url": "https://www.linkedin.com/jobs/view/coding-educator-at-mymichigan-health-4062827563",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4256433147",
+    "title": "Coding Educator",
+    "company": "MyMichigan Health",
+    "location": "Midland, MI",
+    "posted": "8 months ago",
+    "url": "https://www.linkedin.com/jobs/view/coding-educator-at-mymichigan-health-4256433147",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4458508738",
+    "title": "Teacher - Computer Software",
+    "company": "State of Wisconsin",
+    "location": "Racine, WI",
+    "posted": "1 week ago",
+    "url": "https://www.linkedin.com/jobs/view/teacher-computer-software-at-state-of-wisconsin-4458508738",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4461337858",
+    "title": "Educators Wanted",
+    "company": "Epic",
+    "location": "Fort Smith, AR",
+    "posted": "3 days ago",
+    "url": "https://www.linkedin.com/jobs/view/educators-wanted-at-epic-4461337858",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4458790500",
+    "title": "Instructor, Computer Information Technology",
+    "company": "San Jacinto College",
+    "location": "Greater Houston",
+    "posted": "1 week ago",
+    "url": "https://www.linkedin.com/jobs/view/instructor-computer-information-technology-at-san-jacinto-college-4458790500",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4338666306",
+    "title": "Instructor - Computer Science",
+    "company": "Baton Rouge Community College",
+    "location": "Baton Rouge, LA",
+    "posted": "9 months ago",
+    "url": "https://www.linkedin.com/jobs/view/instructor-computer-science-at-baton-rouge-community-college-4338666306",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4447726104",
+    "title": "Technical Trainer, Customer & Partner Enablement",
+    "company": "NinjaOne",
+    "location": "Washington, United States",
+    "posted": "2 weeks ago",
+    "url": "https://www.linkedin.com/jobs/view/technical-trainer-customer-partner-enablement-at-ninjaone-4447726104",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4461325967",
+    "title": "Educators Wanted",
+    "company": "Epic",
+    "location": "Pocatello, ID",
+    "posted": "3 days ago",
+    "url": "https://www.linkedin.com/jobs/view/educators-wanted-at-epic-4461325967",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4461342715",
+    "title": "Educators Wanted",
+    "company": "Epic",
+    "location": "Jonesboro, AR",
+    "posted": "3 days ago",
+    "url": "https://www.linkedin.com/jobs/view/educators-wanted-at-epic-4461342715",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4460322558",
+    "title": "Associate Instructor",
+    "company": "Neueda",
+    "location": "Texas, United States",
+    "posted": "1 week ago",
+    "url": "https://www.linkedin.com/jobs/view/associate-instructor-at-neueda-4460322558",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4456835020",
+    "title": "Software Trainer, Jr",
+    "company": "Dunhill Professional Search & Government Solutions",
+    "location": "Warner Robins, GA",
+    "posted": "1 week ago",
+    "url": "https://www.linkedin.com/jobs/view/software-trainer-jr-at-dunhill-professional-search-government-solutions-4456835020",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4413769486",
+    "title": "Data Science Teaching Experts",
+    "company": "TripleTen",
+    "location": "United States",
+    "posted": "3 months ago",
+    "url": "https://www.linkedin.com/jobs/view/data-science-teaching-experts-at-tripleten-4413769486",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4461339771",
+    "title": "Educators Wanted",
+    "company": "Epic",
+    "location": "Springdale, AR",
+    "posted": "3 days ago",
+    "url": "https://www.linkedin.com/jobs/view/educators-wanted-at-epic-4461339771",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4415581547",
+    "title": "Technical Trainer, VCE",
+    "company": "Verkada",
+    "location": "United States",
+    "posted": "6 days ago",
+    "url": "https://www.linkedin.com/jobs/view/technical-trainer-vce-at-verkada-4415581547",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4425901058",
+    "title": "Technical Trainer",
+    "company": "Genetec",
+    "location": "United States",
+    "posted": "2 months ago",
+    "url": "https://www.linkedin.com/jobs/view/technical-trainer-at-genetec-4425901058",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4425695078",
+    "title": "Technical Trainer",
+    "company": "Genetec",
+    "location": "United States",
+    "posted": "2 months ago",
+    "url": "https://www.linkedin.com/jobs/view/technical-trainer-at-genetec-4425695078",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4461344525",
+    "title": "Educators Wanted",
+    "company": "Epic",
+    "location": "Little Rock, AR",
+    "posted": "3 days ago",
+    "url": "https://www.linkedin.com/jobs/view/educators-wanted-at-epic-4461344525",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4454265820",
+    "title": "Instructor, Computer Information Technology",
+    "company": "San Jacinto College",
+    "location": "Houston, TX",
+    "posted": "2 weeks ago",
+    "url": "https://www.linkedin.com/jobs/view/instructor-computer-information-technology-at-san-jacinto-college-4454265820",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4461343545",
+    "title": "Educators Wanted",
+    "company": "Epic",
+    "location": "Fayetteville, AR",
+    "posted": "3 days ago",
+    "url": "https://www.linkedin.com/jobs/view/educators-wanted-at-epic-4461343545",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4461340835",
+    "title": "Educators Wanted",
+    "company": "Epic",
+    "location": "Idaho Falls, ID",
+    "posted": "3 days ago",
+    "url": "https://www.linkedin.com/jobs/view/educators-wanted-at-epic-4461340835",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4462141835",
+    "title": "Online/Hybrid Course Instructor and Facilitator",
+    "company": "OESC (Oneida ESC Group)",
+    "location": "Milwaukee, WI",
+    "posted": "4 days ago",
+    "url": "https://www.linkedin.com/jobs/view/online-hybrid-course-instructor-and-facilitator-at-oesc-oneida-esc-group-4462141835",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4461328993",
+    "title": "Educators Wanted",
+    "company": "Epic",
+    "location": "River Falls, WI",
+    "posted": "3 days ago",
+    "url": "https://www.linkedin.com/jobs/view/educators-wanted-at-epic-4461328993",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4461338804",
+    "title": "Educators Wanted",
+    "company": "Epic",
+    "location": "Saginaw, MI",
+    "posted": "3 days ago",
+    "url": "https://www.linkedin.com/jobs/view/educators-wanted-at-epic-4461338804",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  },
+  {
+    "id": "4461347060",
+    "title": "Educators Wanted",
+    "company": "Epic",
+    "location": "Evansville, IN",
+    "posted": "3 days ago",
+    "url": "https://www.linkedin.com/jobs/view/educators-wanted-at-epic-4461347060",
+    "first_seen_utc": "2026-09-06T16:21:31Z"
+  }
+]
