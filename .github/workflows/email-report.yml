@@ -1,0 +1,40 @@
+name: dsa-trainer-email-report
+
+on:
+  schedule:
+    - cron: "0 3 */5 * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate PDF and send email
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+        run: python generate_report.py
+
+      - name: Commit updated report state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- report_state.json; then
+            git add report_state.json
+            git commit -m "Update report state after emailing summary"
+            git push
+          else
+            echo "No state change to commit."
+          fi

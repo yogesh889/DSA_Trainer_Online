@@ -21,6 +21,7 @@ from bs4 import BeautifulSoup
 REPO_DIR = Path(__file__).resolve().parent
 JOBS_JSON = REPO_DIR / "jobs.json"
 JOBS_MD = REPO_DIR / "jobs.md"
+INDEX_HTML = REPO_DIR / "index.html"
 
 KEYWORDS = "DSA Trainer"
 LOCATION = "India"
@@ -115,6 +116,71 @@ def write_outputs(jobs):
             f"| [link]({j['url']}) | {j['first_seen_utc']} |"
         )
     JOBS_MD.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+    build_index_html(jobs_sorted)
+
+
+def build_index_html(jobs_sorted):
+    generated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    rows = []
+    for j in jobs_sorted:
+        rows.append(
+            "<tr>"
+            f"<td>{escape_html(j['title'])}</td>"
+            f"<td>{escape_html(j['company'])}</td>"
+            f"<td>{escape_html(j['location'])}</td>"
+            f"<td>{escape_html(j['posted'])}</td>"
+            f"<td><a href=\"{escape_html(j['url'])}\" target=\"_blank\" rel=\"noopener\">Open</a></td>"
+            f"<td>{escape_html(j['first_seen_utc'])}</td>"
+            "</tr>"
+        )
+    html = f"""<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>India DSA Trainer Jobs</title>
+<style>
+  :root {{ color-scheme: light dark; }}
+  body {{ font-family: -apple-system, Segoe UI, Roboto, sans-serif; margin: 2rem; max-width: 1100px; margin-inline: auto; }}
+  h1 {{ font-size: 1.4rem; }}
+  .meta {{ color: #666; margin-bottom: 1.5rem; font-size: 0.9rem; }}
+  table {{ border-collapse: collapse; width: 100%; font-size: 0.9rem; }}
+  th, td {{ border: 1px solid #ccc3; padding: 0.5rem 0.6rem; text-align: left; vertical-align: top; }}
+  th {{ background: #8883; position: sticky; top: 0; }}
+  tr:hover {{ background: #8881; }}
+  .wrap {{ overflow-x: auto; }}
+</style>
+</head>
+<body>
+<h1>India DSA Trainer Jobs — LinkedIn (public search, no login)</h1>
+<p class="meta">
+  {len(jobs_sorted)} listings tracked &middot; last updated {generated_at} &middot;
+  keywords="DSA Trainer", location="India" &middot;
+  <a href="https://github.com/yogesh889/DSA_Trainer_Online">source repo</a>
+</p>
+<div class="wrap">
+<table>
+<thead><tr><th>Title</th><th>Company</th><th>Location</th><th>Posted</th><th>Link</th><th>First seen (UTC)</th></tr></thead>
+<tbody>
+{''.join(rows)}
+</tbody>
+</table>
+</div>
+</body>
+</html>
+"""
+    INDEX_HTML.write_text(html, encoding="utf-8")
+
+
+def escape_html(text: str) -> str:
+    return (
+        (text or "")
+        .replace("&", "&amp;")
+        .replace("<", "&lt;")
+        .replace(">", "&gt;")
+        .replace('"', "&quot;")
+    )
 
 
 def main():

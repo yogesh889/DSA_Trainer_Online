@@ -28,8 +28,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet -- jobs.json jobs.md; then
-            git add jobs.json jobs.md
+          if ! git diff --quiet -- jobs.json jobs.md index.html; then
+            git add jobs.json jobs.md index.html
             git commit -m "Update India DSA Trainer job listings"
             git push
           else
