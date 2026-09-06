@@ -5,8 +5,7 @@ This repository auto-tracks "DSA Trainer" job postings in India on LinkedIn.
 ## Live page
 
 **https://yogesh889.github.io/DSA_Trainer_Online/** — always shows the
-current list of tracked jobs. (Requires GitHub Pages to be enabled once,
-see Setup below.)
+current list of tracked jobs.
 
 ## How it works
 
@@ -29,11 +28,27 @@ pages are accessed.
 You can trigger either workflow manually from the repo's **Actions** tab
 ("Run workflow").
 
+### Freshness window
+
+Only listings whose LinkedIn "posted X ago" text falls between **1 day**
+and **~1 month (31 days)** old are kept. Every run re-checks this against
+each listing's current posted text and drops anything that's aged past a
+month (or was somehow under a day). A listing only starts being tracked
+once it's at least a day old, so brand-new postings appear on the next
+run or two, not instantly.
+
+### Known limitation: individual "hiring a DSA trainer" posts
+
+LinkedIn's normal feed/post search (as opposed to the structured Jobs
+section) requires a logged-in session for guests — it redirects
+unauthenticated requests straight to a login wall. Since this project
+intentionally never logs in or uses credentials, that content isn't
+reachable and isn't included here. Only postings in LinkedIn's public
+Jobs section are tracked.
+
 ## Setup (one-time, done by the repo owner)
 
-1. **Enable GitHub Pages**: Settings → Pages → Source: "Deploy from a
-   branch" → Branch: `master` / `(root)` → Save. The live page above goes
-   live a minute or two after that.
+1. ~~Enable GitHub Pages~~ — done.
 2. **Enable email reports**: create a Gmail
    [App Password](https://myaccount.google.com/apppasswords) (requires
    2-Step Verification), then add two repo secrets under Settings →

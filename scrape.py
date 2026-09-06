@@ -35,6 +35,39 @@ USER_AGENT = (
     "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 )
 
+MIN_AGE_DAYS = 1
+MAX_AGE_DAYS = 31  # ~1 month
+
+_UNIT_TO_DAYS = {
+    "minute": 1 / 1440,
+    "hour": 1 / 24,
+    "day": 1,
+    "week": 7,
+    "month": 30,
+    "year": 365,
+}
+
+
+def parse_age_days(posted_text: str):
+    """Approximate age in days from LinkedIn's relative 'posted' text, or None if unparseable."""
+    text = (posted_text or "").strip().lower()
+    if not text:
+        return None
+    if "just now" in text or "moment" in text:
+        return 0.0
+    if "yesterday" in text:
+        return 1.0
+    match = re.search(r"(\d+)\s*(minute|hour|day|week|month|year)s?\s*ago", text)
+    if not match:
+        return None
+    count = int(match.group(1))
+    return count * _UNIT_TO_DAYS[match.group(2)]
+
+
+def in_age_window(posted_text: str) -> bool:
+    age = parse_age_days(posted_text)
+    return age is not None and MIN_AGE_DAYS <= age <= MAX_AGE_DAYS
+
 
 def fetch_page(start: int) -> str:
     params = {"keywords": KEYWORDS, "location": LOCATION, "start": start}
@@ -185,26 +218,45 @@ def escape_html(text: str) -> str:
 
 def main():
     existing = load_existing()
-    existing_ids = {j["id"] for j in existing}
+    by_id = {j["id"]: j for j in existing}
 
     fetched = fetch_all_listings()
     now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-
-    new_jobs = []
-    for job in fetched:
-        if job["id"] not in existing_ids:
-            job["first_seen_utc"] = now
-            new_jobs.append(job)
-            existing_ids.add(job["id"])
 
     if not fetched:
         print("RESULT: fetch_failed_or_empty new=0 total=%d" % len(existing))
         return
 
-    all_jobs = existing + new_jobs
+    new_jobs = []
+    for job in fetched:
+        existing_job = by_id.get(job["id"])
+        if existing_job is None:
+            # Only start tracking a listing once it's within the window --
+            # skip anything under 1 day old (too fresh) or over ~1 month old (stale).
+            if not in_age_window(job["posted"]):
+                continue
+            job["first_seen_utc"] = now
+            by_id[job["id"]] = job
+            new_jobs.append(job)
+        else:
+            # Refresh title/company/location/posted from the live page, but
+            # keep the original first_seen_utc so history stays accurate.
+            existing_job.update(
+                title=job["title"],
+                company=job["company"],
+                location=job["location"],
+                posted=job["posted"],
+                url=job["url"],
+            )
+
+    # Drop anything (new or previously tracked) that's fallen outside the
+    # 1-day-to-1-month window based on the most recent "posted" text we have.
+    all_jobs = [j for j in by_id.values() if in_age_window(j["posted"])]
+    dropped = len(by_id) - len(all_jobs)
+
     write_outputs(all_jobs)
 
-    print(f"RESULT: ok new={len(new_jobs)} total={len(all_jobs)}")
+    print(f"RESULT: ok new={len(new_jobs)} total={len(all_jobs)} dropped_out_of_window={dropped}")
     for j in new_jobs:
         print(f"NEW: {j['title']} | {j['company']} | {j['location']} | {j['url']}")
 
