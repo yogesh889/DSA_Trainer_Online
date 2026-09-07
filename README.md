@@ -62,13 +62,19 @@ Jobs section are tracked.
 
 ## Files
 
-- `scrape.py` — fetches, parses, dedupes, and writes `jobs.json`,
-  `jobs.md`, and `index.html`.
+- `scrape.py` — fetches (via headless Selenium Chrome), parses, dedupes,
+  and writes `jobs.json`, `jobs.md`, and `index.html`.
 - `generate_report.py` — builds the PDF and sends the email report;
   tracks what's already been reported in `report_state.json`.
 - `jobs.json` — machine-readable list of every unique listing found so far.
 - `jobs.md` — the same list as a human-readable markdown table, newest first.
 - `index.html` — the live page, regenerated every scraper run.
+- `generate_code_doc.py` — builds `CODE_WALKTHROUGH.pdf`, a line-by-line
+  annotated walkthrough of every authored file in this project (not run on
+  a schedule; regenerate by hand with `python generate_code_doc.py` after a
+  meaningful code change).
+- `CODE_WALKTHROUGH.pdf` — the generated walkthrough itself.
+- `PROJECT_REPORT.pdf` — a higher-level build & architecture report.
 
 Each job entry records the title, company, location, LinkedIn's raw
 posted-time text, the job URL, and the UTC timestamp when this tracker
