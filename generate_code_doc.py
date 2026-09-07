@@ -333,6 +333,92 @@ REQUIREMENTS_TXT_ANNOTATIONS = [
            "browser against LinkedIn's public guest search, instead of a raw HTTP request."),
 ]
 
+GENERATE_CODE_DOC_PY_ANNOTATIONS = [
+    (1, 1, "Shebang."),
+    (2, 13, "Module docstring: explains that this script builds CODE_WALKTHROUGH.pdf from the other "
+            "authored files, notes which generated files are only summarized rather than walked "
+            "line-by-line, and states it isn't run on a schedule -- it's meant to be re-run by hand after "
+            "a meaningful code change."),
+    (14, 14, "Imports Path, used to resolve this script's own directory and build the output path."),
+    (15, 15, "Blank line."),
+    (16, 17, "Imports FPDF (the PDF-building class) and its XPos/YPos enums -- used to control the text "
+             "cursor after each multi_cell call -- from the fpdf2 library."),
+    (18, 18, "Blank line."),
+    (19, 20, "REPO_DIR resolves to this script's own directory; OUT_PATH is where the finished PDF gets "
+             "written."),
+    (21, 21, "Blank line."),
+    (22, 24, "Three shared RGB color constants used throughout the document: a light gray fill for code "
+             "blocks, a muted gray-blue for explanatory text, and a near-black for headings."),
+    (25, 26, "Two blank lines before the punctuation-substitution table."),
+    (27, 34, "_ASCII_SUBSTITUTIONS: maps a handful of unicode punctuation characters (em dash, en dash, "
+             "curly single/double quotes) to their plain-ASCII equivalents -- needed because a source "
+             "file being walked through (scrape.py's em dash on line 202) contains a character the PDF's "
+             "core fonts can't render directly."),
+    (35, 36, "Two blank lines before the safe() helper."),
+    (37, 41, "safe(): function signature and docstring, explaining why this exists -- fpdf2's built-in "
+             "fonts only support the latin-1 character set."),
+    (42, 42, "Falls back to an empty string if None was passed in."),
+    (43, 44, "Applies every substitution from _ASCII_SUBSTITUTIONS in turn, so e.g. an em dash becomes "
+             "\"--\" instead of silently disappearing."),
+    (45, 45, "Encodes whatever text remains to latin-1 with lossy replacement (any still-unsupported "
+             "character becomes '?'), then decodes it back to a normal string fpdf2 can render safely."),
+    (46, 47, "Two blank lines before the annotation-format comment."),
+    (48, 50, "A comment explaining the shape every *_ANNOTATIONS list below follows: (first_line, "
+             "last_line, explanation) tuples covering a file's lines with no gaps, with the actual code "
+             "text read live from disk rather than duplicated here."),
+    (51, 51, "Blank line."),
+    (52, 182, "SCRAPE_PY_ANNOTATIONS: the full line-by-line annotation data for scrape.py -- one tuple per "
+              "described range, together covering all 278 of its lines."),
+    (183, 183, "Blank line."),
+    (184, 264, "GENERATE_REPORT_PY_ANNOTATIONS: the same, for generate_report.py's 145 lines."),
+    (265, 265, "Blank line."),
+    (266, 294, "JOB_WATCH_YML_ANNOTATIONS: the same, for the job-watch workflow's 37 lines."),
+    (295, 295, "Blank line."),
+    (296, 325, "EMAIL_REPORT_YML_ANNOTATIONS: the same, for the email-report workflow's 41 lines."),
+    (326, 326, "Blank line."),
+    (327, 334, "REQUIREMENTS_TXT_ANNOTATIONS: the same, for requirements.txt's 3 lines."),
+    (335, 335, "Blank line."),
+    (336, 420, "GENERATE_CODE_DOC_PY_ANNOTATIONS: this list itself -- the line-by-line annotation data for "
+               "generate_code_doc.py, describing every line of this file, including its own definition "
+               "(added when this section was added to the walkthrough) and the FILES entry that includes "
+               "it below."),
+    (421, 421, "Blank line."),
+    (422, 460, "FILES: the ordered list of files this document walks through -- each entry pairs a "
+               "repo-relative path with a short blurb and the *_ANNOTATIONS list describing it. "
+               "add_file_section() below renders one section per entry, in this order; the entry for "
+               "generate_code_doc.py itself is listed last."),
+    (461, 461, "Blank line."),
+    (462, 472, "NOT_WALKED_THROUGH: (filename, note) pairs for generated files that are summarized in the "
+               "closing section instead of walked through line-by-line, since they're produced by the "
+               "code above rather than hand-authored."),
+    (473, 474, "Two blank lines before the first PDF-building function."),
+    (475, 506, "add_title_page(pdf): adds the title page -- a large centered heading, a smaller centered "
+               "subheading, and a paragraph of body text giving the repo/live-page links and explaining "
+               "what the document covers and deliberately leaves out. Every multi_cell() call here passes "
+               "new_x=XPos.LMARGIN, new_y=YPos.NEXT so the text cursor returns to the left margin and "
+               "drops to the next line afterward -- omitting that on the very first version of this "
+               "function left the cursor pinned near the right edge, and the next multi_cell() call "
+               "crashed with fpdf2's \"not enough horizontal space to render a single character\"."),
+    (507, 508, "Two blank lines before the per-file section function."),
+    (509, 542, "add_file_section(pdf, path, blurb, annotations): renders one file's whole section -- a "
+               "bold heading with the file's path, the blurb paragraph, then reads that file's actual "
+               "lines fresh from disk and, for every (start, end, explanation) tuple in its annotations, "
+               "prints the exact source lines in that range inside a shaded monospace (Courier) block "
+               "(or \"(blank)\" if the range is empty), immediately followed by the explanation in "
+               "italic below it, with a small gap before the next entry."),
+    (543, 544, "Two blank lines before the closing-section function."),
+    (545, 559, "add_closing_section(pdf): renders the final page listing every entry in "
+               "NOT_WALKED_THROUGH -- each generated file's name in bold monospace, followed by its "
+               "explanatory note."),
+    (560, 561, "Two blank lines before main()."),
+    (562, 573, "main(): creates a landscape A4 FPDF document (landscape gives code lines more room per "
+               "line than portrait would) with automatic page breaks and 14mm margins, adds the title "
+               "page, renders one section per entry in FILES, adds the closing section, then writes the "
+               "finished PDF to OUT_PATH and prints a one-line confirmation."),
+    (574, 575, "Two blank lines before the module entry-point guard."),
+    (576, 577, "Standard `if __name__ == \"__main__\": main()` guard."),
+]
+
 FILES = [
     {
         "path": "scrape.py",
@@ -364,6 +450,12 @@ FILES = [
         "path": "requirements.txt",
         "blurb": "The three third-party packages both scripts depend on.",
         "annotations": REQUIREMENTS_TXT_ANNOTATIONS,
+    },
+    {
+        "path": "generate_code_doc.py",
+        "blurb": "The script that builds this very PDF -- reads each file above from disk and pairs it "
+                 "with hand-written line-range explanations.",
+        "annotations": GENERATE_CODE_DOC_PY_ANNOTATIONS,
     },
 ]
 
