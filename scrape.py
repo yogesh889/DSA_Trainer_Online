@@ -12,11 +12,12 @@ import re
 import sys
 import time
 import urllib.parse
-import urllib.request
 from pathlib import Path
 from datetime import datetime, timezone
 
 from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options as ChromeOptions
 
 REPO_DIR = Path(__file__).resolve().parent
 JOBS_JSON = REPO_DIR / "jobs.json"
@@ -69,12 +70,20 @@ def in_age_window(posted_text: str) -> bool:
     return age is not None and MIN_AGE_DAYS <= age <= MAX_AGE_DAYS
 
 
-def fetch_page(start: int) -> str:
+def build_driver() -> webdriver.Chrome:
+    options = ChromeOptions()
+    options.add_argument("--headless=new")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument(f"user-agent={USER_AGENT}")
+    return webdriver.Chrome(options=options)
+
+
+def fetch_page(driver: webdriver.Chrome, start: int) -> str:
     params = {"keywords": KEYWORDS, "location": LOCATION, "start": start}
     url = f"{GUEST_SEARCH_URL}?{urllib.parse.urlencode(params)}"
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        return resp.read().decode("utf-8", errors="replace")
+    driver.get(url)
+    return driver.page_source
 
 
 def parse_cards(html: str):
@@ -107,25 +116,29 @@ def parse_cards(html: str):
 
 def fetch_all_listings():
     all_listings = {}
-    for page in range(MAX_PAGES):
-        start = page * PAGE_SIZE
-        try:
-            html = fetch_page(start)
-        except Exception as exc:  # noqa: BLE001
-            print(f"[warn] fetch failed at start={start}: {exc}", file=sys.stderr)
-            break
-        listings = parse_cards(html)
-        if not listings:
-            break
-        new_on_this_page = 0
-        for job in listings:
-            if job["id"] not in all_listings:
-                all_listings[job["id"]] = job
-                new_on_this_page += 1
-        if new_on_this_page == 0:
-            # LinkedIn started repeating results -- we've reached the end
-            break
-        time.sleep(REQUEST_DELAY_SECONDS)
+    driver = build_driver()
+    try:
+        for page in range(MAX_PAGES):
+            start = page * PAGE_SIZE
+            try:
+                html = fetch_page(driver, start)
+            except Exception as exc:  # noqa: BLE001
+                print(f"[warn] fetch failed at start={start}: {exc}", file=sys.stderr)
+                break
+            listings = parse_cards(html)
+            if not listings:
+                break
+            new_on_this_page = 0
+            for job in listings:
+                if job["id"] not in all_listings:
+                    all_listings[job["id"]] = job
+                    new_on_this_page += 1
+            if new_on_this_page == 0:
+                # LinkedIn started repeating results -- we've reached the end
+                break
+            time.sleep(REQUEST_DELAY_SECONDS)
+    finally:
+        driver.quit()
     return list(all_listings.values())
 
 

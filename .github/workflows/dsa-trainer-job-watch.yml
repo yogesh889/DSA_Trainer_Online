@@ -19,7 +19,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install beautifulsoup4
+        run: pip install beautifulsoup4 selenium
 
       - name: Run scraper
         run: python scrape.py
