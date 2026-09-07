@@ -51,10 +51,11 @@ Jobs section are tracked.
 1. ~~Enable GitHub Pages~~ — done.
 2. **Enable email reports**: create a Gmail
    [App Password](https://myaccount.google.com/apppasswords) (requires
-   2-Step Verification), then add two repo secrets under Settings →
+   2-Step Verification), then add three repo secrets under Settings →
    Secrets and variables → Actions:
    - `SMTP_USER` — the Gmail address to send from
    - `SMTP_PASS` — the app password (not your normal Gmail password)
+   - `RECIPIENT_EMAIL` — the address to send the report to
 
    Until these secrets exist, `email-report.yml` will fail — that's
    expected and harmless (the job-watch workflow is independent of it).
