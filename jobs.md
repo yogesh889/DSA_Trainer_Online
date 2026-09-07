@@ -1,5 +1,12 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Robotics Trainer | Makers' Muse | Udaipur, Rajasthan, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/robotics-trainer-at-makers-muse-4456209249) | 2026-09-07T04:42:48Z |
+| Service Desk Trainer | Tata Consultancy Services | Bengaluru, Karnataka, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/service-desk-trainer-at-tata-consultancy-services-4458773106) | 2026-09-07T04:42:48Z |
+| Technical Trainer - AI | Talentgigs | Nagpur, Maharashtra, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-ai-at-talentgigs-4460967765) | 2026-09-07T04:42:48Z |
+| WINDOWS TRAINER | HCLTech | Noida, Uttar Pradesh, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/windows-trainer-at-hcltech-4461401180) | 2026-09-07T04:42:48Z |
+| AI & Generative AI Trainer – Subject Matter Expert (SME) | Softcrayons IT Education | Noida, Uttar Pradesh, India | 1 month ago | [link](https://in.linkedin.com/jobs/view/ai-generative-ai-trainer-%E2%80%93-subject-matter-expert-sme-at-softcrayons-it-education-4449475929) | 2026-09-07T04:42:48Z |
+| Tutor - Digital Trust | BSI | Delhi, Delhi, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/tutor-digital-trust-at-bsi-4429688515) | 2026-09-07T04:42:48Z |
+| Trainer, GSF Learning and development, GSF Learning and development | Amazon | New Delhi, Delhi, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/trainer-gsf-learning-and-development-gsf-learning-and-development-at-amazon-4455905311) | 2026-09-07T04:42:48Z |
 | Technical Trainer | Infosys | Mysore, Karnataka, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-infosys-4439403723) | 2026-09-06T22:08:02Z |
 | Data Marketing Trainer | NDMIT | Prayagraj, Uttar Pradesh, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/data-marketing-trainer-at-ndmit-4459475760) | 2026-09-06T22:08:02Z |
 | Assistant Professor | Intellipaat | Hyderabad, Telangana, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-at-intellipaat-4459479872) | 2026-09-06T22:08:02Z |
@@ -20,10 +27,10 @@
 | Data Science Instructor - Learning Centre | upGrad | Raipur, Chhattisgarh, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/data-science-instructor-learning-centre-at-upgrad-4460464714) | 2026-09-06T16:44:45Z |
 | Data Science & Analytics Trainer/Faculty | Dice Academy Delhi | New Delhi, Delhi, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/data-science-analytics-trainer-faculty-at-dice-academy-delhi-4462764179) | 2026-09-06T16:44:45Z |
 | Technical Consultant | Recruit Riders Technologies Inc | Mehsana, Gujarat, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/technical-consultant-at-recruit-riders-technologies-inc-4457707189) | 2026-09-06T16:44:45Z |
-| Data Science Trainer- Pitampura | SkillCircle™ | Delhi, Delhi, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-pitampura-at-skillcircle%E2%84%A2-4459551749) | 2026-09-06T16:44:45Z |
+| Data Science Trainer- Pitampura | SkillCircle™ | Delhi, Delhi, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-pitampura-at-skillcircle%E2%84%A2-4459551749) | 2026-09-06T16:44:45Z |
 | Assistant Professor of Computer Science | SKIPS University | Ahmedabad, Gujarat, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-of-computer-science-at-skips-university-4456643462) | 2026-09-06T16:44:45Z |
 | Quantitative Ability Trainer(CAT) - QA-LR-DI | IMS Learning Resources Pvt. Ltd. | Bengaluru, Karnataka, India | 6 days ago | [link](https://in.linkedin.com/jobs/view/quantitative-ability-trainer-cat-qa-lr-di-at-ims-learning-resources-pvt-ltd-4459762808) | 2026-09-06T16:44:45Z |
-| C & Data Structures Trainer | Semester Training Project | Careerera - Corporate Training | Bengaluru, Karnataka, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/c-data-structures-trainer-semester-training-project-at-careerera-corporate-training-4463187204) | 2026-09-06T16:44:45Z |
+| C & Data Structures Trainer | Semester Training Project | Careerera - Corporate Training | Bengaluru, Karnataka, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/c-data-structures-trainer-semester-training-project-at-careerera-corporate-training-4463187204) | 2026-09-06T16:44:45Z |
 | Data Science Trainer- Pitampura | SkillCircle™ | New Delhi, Delhi, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-pitampura-at-skillcircle%E2%84%A2-4459486287) | 2026-09-06T16:44:45Z |
 | Assistant Professor | Pune Institute of Business Management | Mulshi, Maharashtra, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-at-pune-institute-of-business-management-4454479982) | 2026-09-06T16:44:45Z |
 | MERN Stack Trainer | AS Technology Corporation | Delhi, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/mern-stack-trainer-at-as-technology-corporation-4451188524) | 2026-09-06T16:44:45Z |
