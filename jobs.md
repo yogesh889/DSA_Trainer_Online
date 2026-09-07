@@ -1,5 +1,6 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Data Science Trainer | IMAGECON ACADEMY | Salem, Tamil Nadu, India | 1 month ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-at-imagecon-academy-4449084152) | 2026-09-07T22:51:06Z |
 | Digital Literacy & Computational Thinking Trainer | ROBOIQ | Kanpur, Uttar Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/digital-literacy-computational-thinking-trainer-at-roboiq-4461812653) | 2026-09-07T19:10:09Z |
 | Associate Professor, Statistics UNSW Bengaluru India | UNSW Bengaluru | Bengaluru, Karnataka, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/associate-professor-statistics-unsw-bengaluru-india-at-unsw-bengaluru-4462775169) | 2026-09-07T19:10:09Z |
 | Assistant Professor | Jain (Deemed-to-be University) | Bengaluru, Karnataka, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-at-jain-deemed-to-be-university-4460979260) | 2026-09-07T19:10:09Z |
@@ -28,13 +29,13 @@
 | AI/ML Trainer | AS Technology Corporation | Delhi, India | 4 weeks ago | [link](https://in.linkedin.com/jobs/view/ai-ml-trainer-at-as-technology-corporation-4449568673) | 2026-09-06T16:44:45Z |
 | Technical Trainer | Chitkara University, Punjab | Rajpura, Punjab, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-chitkara-university-punjab-4431565758) | 2026-09-06T16:44:45Z |
 | DSA Trainer | iamneo - An NIIT Venture | India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/dsa-trainer-at-iamneo-an-niit-venture-4455201421) | 2026-09-06T16:44:45Z |
-| Mentor | Polaris School of Technology | Bengaluru, Karnataka, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/mentor-at-polaris-school-of-technology-4456873640) | 2026-09-06T16:44:45Z |
+| Mentor | Polaris School of Technology | Bengaluru, Karnataka, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/mentor-at-polaris-school-of-technology-4456873640) | 2026-09-06T16:44:45Z |
 | Assistant Professor - Business Analytics | MIT ADT University | Pune District, Maharashtra, India | 6 days ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-business-analytics-at-mit-adt-university-4459768661) | 2026-09-06T16:44:45Z |
-| Data Science Instructor | upGrad | Raipur, Chhattisgarh, India | 6 days ago | [link](https://in.linkedin.com/jobs/view/data-science-instructor-at-upgrad-4460021258) | 2026-09-06T16:44:45Z |
+| Data Science Instructor | upGrad | Raipur, Chhattisgarh, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/data-science-instructor-at-upgrad-4460021258) | 2026-09-06T16:44:45Z |
 | Data Science Instructor - Learning Centre | upGrad | Raipur, Chhattisgarh, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/data-science-instructor-learning-centre-at-upgrad-4460464714) | 2026-09-06T16:44:45Z |
 | Data Science & Analytics Trainer/Faculty | Dice Academy Delhi | New Delhi, Delhi, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/data-science-analytics-trainer-faculty-at-dice-academy-delhi-4462764179) | 2026-09-06T16:44:45Z |
 | Technical Consultant | Recruit Riders Technologies Inc | Mehsana, Gujarat, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/technical-consultant-at-recruit-riders-technologies-inc-4457707189) | 2026-09-06T16:44:45Z |
-| Data Science Trainer- Pitampura | SkillCircle™ | Delhi, Delhi, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-pitampura-at-skillcircle%E2%84%A2-4459551749) | 2026-09-06T16:44:45Z |
+| Data Science Trainer- Pitampura | SkillCircle™ | Delhi, Delhi, India | 6 days ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-pitampura-at-skillcircle%E2%84%A2-4459551749) | 2026-09-06T16:44:45Z |
 | Assistant Professor of Computer Science | SKIPS University | Ahmedabad, Gujarat, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-of-computer-science-at-skips-university-4456643462) | 2026-09-06T16:44:45Z |
 | Quantitative Ability Trainer(CAT) - QA-LR-DI | IMS Learning Resources Pvt. Ltd. | Bengaluru, Karnataka, India | 6 days ago | [link](https://in.linkedin.com/jobs/view/quantitative-ability-trainer-cat-qa-lr-di-at-ims-learning-resources-pvt-ltd-4459762808) | 2026-09-06T16:44:45Z |
 | C & Data Structures Trainer | Semester Training Project | Careerera - Corporate Training | Bengaluru, Karnataka, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/c-data-structures-trainer-semester-training-project-at-careerera-corporate-training-4463187204) | 2026-09-06T16:44:45Z |
@@ -53,7 +54,7 @@
 | Instructor - Competitive Programming (DSA) | Newton School of Technology | Pune District, Maharashtra, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/instructor-competitive-programming-dsa-at-newton-school-of-technology-4454248219) | 2026-09-06T16:37:25Z |
 | C++ Programming Trainer | Algomind Academy | Indore, Madhya Pradesh, India | 1 month ago | [link](https://in.linkedin.com/jobs/view/c%2B%2B-programming-trainer-at-algomind-academy-4448931730) | 2026-09-06T16:37:25Z |
 | Technical Trainer- CSE | Manav Rachna International Institute of Research & Studies | Faridabad, Haryana, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-cse-at-manav-rachna-international-institute-of-research-studies-4439782505) | 2026-09-06T16:37:25Z |
-| Technical Trainer | Saveetha Engineering College | Sriperumbudur, Tamil Nadu, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-saveetha-engineering-college-4459766305) | 2026-09-06T16:37:25Z |
+| Technical Trainer | Saveetha Engineering College | Sriperumbudur, Tamil Nadu, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-saveetha-engineering-college-4459766305) | 2026-09-06T16:37:25Z |
 | Coding Mentor | Softcrayons IT Education | Gurgaon, Haryana, India | 1 month ago | [link](https://in.linkedin.com/jobs/view/coding-mentor-at-softcrayons-it-education-4443581538) | 2026-09-06T16:37:25Z |
 | Technical Trainer | Parul University | Vadodara, Gujarat, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-parul-university-4458393186) | 2026-09-06T16:37:25Z |
 | Specialist - AI Trainer | Accenture in India | Hyderabad, Telangana, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/specialist-ai-trainer-at-accenture-in-india-4448328722) | 2026-09-06T16:37:25Z |
