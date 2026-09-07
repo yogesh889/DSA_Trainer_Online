@@ -4,12 +4,11 @@ Builds a PDF summary of India DSA Trainer job listings and emails it to
 the configured recipient. Meant to run every ~5 days
 (see .github/workflows/email-report.yml).
 
-Requires two GitHub Actions secrets (set by the repo owner, never seen by
+Requires three GitHub Actions secrets (set by the repo owner, never seen by
 Claude or committed to the repo):
-  SMTP_USER  -- the Gmail address to send FROM
-  SMTP_PASS  -- a Gmail App Password for that account (not the login password)
-
-The recipient address is not secret and is set via RECIPIENT_EMAIL below.
+  SMTP_USER        -- the Gmail address to send FROM
+  SMTP_PASS        -- a Gmail App Password for that account (not the login password)
+  RECIPIENT_EMAIL  -- the address to send the report TO
 """
 import json
 import os
@@ -28,7 +27,6 @@ JOBS_JSON = REPO_DIR / "jobs.json"
 STATE_JSON = REPO_DIR / "report_state.json"
 PDF_PATH = REPO_DIR / "latest_report.pdf"
 
-RECIPIENT_EMAIL = "REDACTED_EMAIL"
 LIVE_PAGE_URL = "https://yogesh889.github.io/DSA_Trainer_Online/"
 REPO_URL = "https://github.com/yogesh889/DSA_Trainer_Online"
 
@@ -100,10 +98,11 @@ def build_pdf(all_jobs, new_jobs, generated_at: str) -> Path:
 def send_email(pdf_path: Path, new_count: int, total_count: int):
     smtp_user = os.environ["SMTP_USER"]
     smtp_pass = os.environ["SMTP_PASS"]
+    recipient_email = os.environ["RECIPIENT_EMAIL"]
 
     msg = MIMEMultipart()
     msg["From"] = smtp_user
-    msg["To"] = RECIPIENT_EMAIL
+    msg["To"] = recipient_email
     msg["Subject"] = f"India DSA Trainer jobs: {new_count} new ({total_count} total tracked)"
 
     body = (
@@ -122,7 +121,7 @@ def send_email(pdf_path: Path, new_count: int, total_count: int):
 
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
         server.login(smtp_user, smtp_pass)
-        server.sendmail(smtp_user, [RECIPIENT_EMAIL], msg.as_string())
+        server.sendmail(smtp_user, [recipient_email], msg.as_string())
 
 
 def main():
