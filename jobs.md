@@ -1,8 +1,13 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Master Trainer- AI | Anudip Foundation | Gorakhpur, Uttar Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/master-trainer-ai-at-anudip-foundation-4462165971) | 2026-09-08T09:42:10Z |
+| Python Full Stack Trainer-Bhopal | Anudip Foundation | Bhopal, Madhya Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/python-full-stack-trainer-bhopal-at-anudip-foundation-4461864922) | 2026-09-08T09:42:10Z |
+| Process Trainer | TP | Kolkata, West Bengal, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/process-trainer-at-tp-4454051542) | 2026-09-08T09:42:10Z |
+| Assistant Professor of Computer Science | Amity University | Patna, Bihar, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-of-computer-science-at-amity-university-4462780489) | 2026-09-08T09:42:10Z |
+| Process Trainer | Anaptyss | Noida, Uttar Pradesh, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/process-trainer-at-anaptyss-4447901700) | 2026-09-08T09:42:10Z |
 | AI-ML Trainer - Edtech (Bhopal) | Cybrom Technology Pvt. Ltd (Official) | Bhopal, Madhya Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/ai-ml-trainer-edtech-bhopal-at-cybrom-technology-pvt-ltd-official-4461877511) | 2026-09-08T04:37:37Z |
 | Data Science Trainer | IMAGECON ACADEMY | Salem, Tamil Nadu, India | 1 month ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-at-imagecon-academy-4449084152) | 2026-09-07T22:51:06Z |
-| Digital Literacy & Computational Thinking Trainer | ROBOIQ | Kanpur, Uttar Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/digital-literacy-computational-thinking-trainer-at-roboiq-4461812653) | 2026-09-07T19:10:09Z |
+| Digital Literacy & Computational Thinking Trainer | ROBOIQ | Kanpur, Uttar Pradesh, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/digital-literacy-computational-thinking-trainer-at-roboiq-4461812653) | 2026-09-07T19:10:09Z |
 | Associate Professor, Statistics UNSW Bengaluru India | UNSW Bengaluru | Bengaluru, Karnataka, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/associate-professor-statistics-unsw-bengaluru-india-at-unsw-bengaluru-4462775169) | 2026-09-07T19:10:09Z |
 | Assistant Professor | Jain (Deemed-to-be University) | Bengaluru, Karnataka, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-at-jain-deemed-to-be-university-4460979260) | 2026-09-07T19:10:09Z |
 | Associate Professor / Professor of Practice - Advanced Computing | DBS Global University | Dehradun, Uttarakhand, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/associate-professor-professor-of-practice-advanced-computing-at-dbs-global-university-4457251927) | 2026-09-07T19:10:09Z |
@@ -50,7 +55,7 @@
 | Cyber Security Trainer / Coach / Instructor / Mentor | HackingFlix | Jaipur, Rajasthan, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/cyber-security-trainer-coach-instructor-mentor-at-hackingflix-4461163148) | 2026-09-06T16:44:45Z |
 | Robotics & AI Trainer | AeroBay | Rajasthan, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/robotics-ai-trainer-at-aerobay-4459225458) | 2026-09-06T16:44:45Z |
 | Training Specialist, Last Mile - Training Team | Amazon | Ludhiana, Punjab, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/training-specialist-last-mile-training-team-at-amazon-4455799434) | 2026-09-06T16:44:45Z |
-| C++ & DSA Trainer | Fireblaze AI School | Nagpur, Maharashtra, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/c%2B%2B-dsa-trainer-at-fireblaze-ai-school-4463317242) | 2026-09-06T16:37:25Z |
+| C++ & DSA Trainer | Fireblaze AI School | Nagpur, Maharashtra, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/c%2B%2B-dsa-trainer-at-fireblaze-ai-school-4463317242) | 2026-09-06T16:37:25Z |
 | Coding Instructor (Data Structures & Algorithms) | Algomind Academy | Indore, Madhya Pradesh, India | 1 month ago | [link](https://in.linkedin.com/jobs/view/coding-instructor-data-structures-algorithms-at-algomind-academy-4448937567) | 2026-09-06T16:37:25Z |
 | Instructor - Competitive Programming (DSA) | Newton School of Technology | Pune District, Maharashtra, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/instructor-competitive-programming-dsa-at-newton-school-of-technology-4454248219) | 2026-09-06T16:37:25Z |
 | C++ Programming Trainer | Algomind Academy | Indore, Madhya Pradesh, India | 1 month ago | [link](https://in.linkedin.com/jobs/view/c%2B%2B-programming-trainer-at-algomind-academy-4448931730) | 2026-09-06T16:37:25Z |
@@ -66,7 +71,7 @@
 | Technical Trainer | Anteelo | Delhi Cantonment, Delhi, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-anteelo-4454324702) | 2026-09-06T16:37:25Z |
 | Master Trainer | Edunet Foundation | Ujjain, Madhya Pradesh, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/master-trainer-at-edunet-foundation-4458732171) | 2026-09-06T16:37:25Z |
 | Walk In Drive on 20 Aug @Noida | Process Trainer | TELUS Digital | Noida, Uttar Pradesh, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/walk-in-drive-on-20-aug-%40noida-process-trainer-at-telus-digital-4452388735) | 2026-09-06T16:37:25Z |
-| Full Stack Development Trainer | upGrad | Bhopal, Madhya Pradesh, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/full-stack-development-trainer-at-upgrad-4460475715) | 2026-09-06T16:37:25Z |
+| Full Stack Development Trainer | upGrad | Bhopal, Madhya Pradesh, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/full-stack-development-trainer-at-upgrad-4460475715) | 2026-09-06T16:37:25Z |
 | Data Scientist + Instructor | Newton School of Technology | Sonipat, Haryana, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/data-scientist-%2B-instructor-at-newton-school-of-technology-4458362580) | 2026-09-06T16:37:25Z |
 | Technology Educator | Accenture in India | Gurugram, Haryana, India | 6 days ago | [link](https://in.linkedin.com/jobs/view/technology-educator-at-accenture-in-india-4448332421) | 2026-09-06T16:37:25Z |
 | Faculty - Quantitative Aptitude / Maths (99%ile+ CAT QA) | AceIPM | Noida, Uttar Pradesh, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/faculty-quantitative-aptitude-maths-99%25ile%2B-cat-qa-at-aceipm-4453521675) | 2026-09-06T16:37:25Z |
