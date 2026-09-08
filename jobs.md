@@ -1,5 +1,6 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| AI-ML Trainer - Edtech (Bhopal) | Cybrom Technology Pvt. Ltd (Official) | Bhopal, Madhya Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/ai-ml-trainer-edtech-bhopal-at-cybrom-technology-pvt-ltd-official-4461877511) | 2026-09-08T04:37:37Z |
 | Data Science Trainer | IMAGECON ACADEMY | Salem, Tamil Nadu, India | 1 month ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-at-imagecon-academy-4449084152) | 2026-09-07T22:51:06Z |
 | Digital Literacy & Computational Thinking Trainer | ROBOIQ | Kanpur, Uttar Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/digital-literacy-computational-thinking-trainer-at-roboiq-4461812653) | 2026-09-07T19:10:09Z |
 | Associate Professor, Statistics UNSW Bengaluru India | UNSW Bengaluru | Bengaluru, Karnataka, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/associate-professor-statistics-unsw-bengaluru-india-at-unsw-bengaluru-4462775169) | 2026-09-07T19:10:09Z |
@@ -20,7 +21,7 @@
 | Assistant Professor | Intellipaat | Hyderabad, Telangana, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-at-intellipaat-4459479872) | 2026-09-06T22:08:02Z |
 | Instructor (OT) | C3iHub, IIT Kanpur | Kanpur, Uttar Pradesh, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/instructor-ot-at-c3ihub-iit-kanpur-4453522496) | 2026-09-06T17:05:52Z |
 | Trainer (Assessments) | ETS | Greater Delhi Area | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/trainer-assessments-at-ets-4422444131) | 2026-09-06T17:05:52Z |
-| Trainer | Entire Skill | Punjab, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/trainer-at-entire-skill-4462397633) | 2026-09-06T17:05:52Z |
+| Trainer | Entire Skill | Punjab, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/trainer-at-entire-skill-4462397633) | 2026-09-06T17:05:52Z |
 | Technical Training Analyst - Trainer | NTT DATA North America | Noida, Uttar Pradesh, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/technical-training-analyst-trainer-at-ntt-data-north-america-4447013057) | 2026-09-06T17:05:52Z |
 | Banner Consultant | Tata Consultancy Services | New Delhi, Delhi, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/banner-consultant-at-tata-consultancy-services-4440207353) | 2026-09-06T17:05:52Z |
 | Deep Learning Trainer | Algomind Academy | Indore, Madhya Pradesh, India | 1 month ago | [link](https://in.linkedin.com/jobs/view/deep-learning-trainer-at-algomind-academy-4448939485) | 2026-09-06T16:44:45Z |
@@ -41,13 +42,13 @@
 | C & Data Structures Trainer | Semester Training Project | Careerera - Corporate Training | Bengaluru, Karnataka, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/c-data-structures-trainer-semester-training-project-at-careerera-corporate-training-4463187204) | 2026-09-06T16:44:45Z |
 | Data Science Trainer- Pitampura | SkillCircle™ | New Delhi, Delhi, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-pitampura-at-skillcircle%E2%84%A2-4459486287) | 2026-09-06T16:44:45Z |
 | Assistant Professor | Pune Institute of Business Management | Mulshi, Maharashtra, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-at-pune-institute-of-business-management-4454479982) | 2026-09-06T16:44:45Z |
-| MERN Stack Trainer | AS Technology Corporation | Delhi, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/mern-stack-trainer-at-as-technology-corporation-4451188524) | 2026-09-06T16:44:45Z |
+| MERN Stack Trainer | AS Technology Corporation | Delhi, India | 4 weeks ago | [link](https://in.linkedin.com/jobs/view/mern-stack-trainer-at-as-technology-corporation-4451188524) | 2026-09-06T16:44:45Z |
 | SDE 2/3 + Senior Instructor -  Competitive Programming (DSA) | Newton School | Sonipat, Haryana, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/sde-2-3-%2B-senior-instructor-competitive-programming-dsa-at-newton-school-4454393898) | 2026-09-06T16:44:45Z |
-| Robotics STEM Teacher | PW (PhysicsWallah) | Indore, Madhya Pradesh, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/robotics-stem-teacher-at-pw-physicswallah-4458173990) | 2026-09-06T16:44:45Z |
+| Robotics STEM Teacher | PW (PhysicsWallah) | Indore, Madhya Pradesh, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/robotics-stem-teacher-at-pw-physicswallah-4458173990) | 2026-09-06T16:44:45Z |
 | Robotics & AI Trainer | AeroBay | Nagaon, Assam, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/robotics-ai-trainer-at-aerobay-4456905576) | 2026-09-06T16:44:45Z |
-| Jr. Associate - L&D Trainer || ( B. Tech _ Fresher) | iMerit Technology | Kolkata, West Bengal, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/jr-associate-l-d-trainer-b-tech-fresher-at-imerit-technology-4461622711) | 2026-09-06T16:44:45Z |
-| Cyber Security Trainer / Coach / Instructor / Mentor | HackingFlix | Jaipur, Rajasthan, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/cyber-security-trainer-coach-instructor-mentor-at-hackingflix-4461163148) | 2026-09-06T16:44:45Z |
-| Robotics & AI Trainer | AeroBay | Rajasthan, India | 6 days ago | [link](https://in.linkedin.com/jobs/view/robotics-ai-trainer-at-aerobay-4459225458) | 2026-09-06T16:44:45Z |
+| Jr. Associate - L&D Trainer || ( B. Tech _ Fresher) | iMerit Technology | Kolkata, West Bengal, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/jr-associate-l-d-trainer-b-tech-fresher-at-imerit-technology-4461622711) | 2026-09-06T16:44:45Z |
+| Cyber Security Trainer / Coach / Instructor / Mentor | HackingFlix | Jaipur, Rajasthan, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/cyber-security-trainer-coach-instructor-mentor-at-hackingflix-4461163148) | 2026-09-06T16:44:45Z |
+| Robotics & AI Trainer | AeroBay | Rajasthan, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/robotics-ai-trainer-at-aerobay-4459225458) | 2026-09-06T16:44:45Z |
 | Training Specialist, Last Mile - Training Team | Amazon | Ludhiana, Punjab, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/training-specialist-last-mile-training-team-at-amazon-4455799434) | 2026-09-06T16:44:45Z |
 | C++ & DSA Trainer | Fireblaze AI School | Nagpur, Maharashtra, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/c%2B%2B-dsa-trainer-at-fireblaze-ai-school-4463317242) | 2026-09-06T16:37:25Z |
 | Coding Instructor (Data Structures & Algorithms) | Algomind Academy | Indore, Madhya Pradesh, India | 1 month ago | [link](https://in.linkedin.com/jobs/view/coding-instructor-data-structures-algorithms-at-algomind-academy-4448937567) | 2026-09-06T16:37:25Z |
@@ -57,7 +58,7 @@
 | Technical Trainer | Saveetha Engineering College | Sriperumbudur, Tamil Nadu, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-saveetha-engineering-college-4459766305) | 2026-09-06T16:37:25Z |
 | Coding Mentor | Softcrayons IT Education | Gurgaon, Haryana, India | 1 month ago | [link](https://in.linkedin.com/jobs/view/coding-mentor-at-softcrayons-it-education-4443581538) | 2026-09-06T16:37:25Z |
 | Technical Trainer | Parul University | Vadodara, Gujarat, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-parul-university-4458393186) | 2026-09-06T16:37:25Z |
-| Specialist - AI Trainer | Accenture in India | Hyderabad, Telangana, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/specialist-ai-trainer-at-accenture-in-india-4448328722) | 2026-09-06T16:37:25Z |
+| Specialist - AI Trainer | Accenture in India | Hyderabad, Telangana, India | 6 days ago | [link](https://in.linkedin.com/jobs/view/specialist-ai-trainer-at-accenture-in-india-4448328722) | 2026-09-06T16:37:25Z |
 | IT Trainer | Larsen & Toubro | Mumbai, Maharashtra, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/it-trainer-at-larsen-toubro-4451325839) | 2026-09-06T16:37:25Z |
 | Services Training Engineer | Alstom | Saharanpur, Uttar Pradesh, India | 1 month ago | [link](https://in.linkedin.com/jobs/view/services-training-engineer-at-alstom-4438796390) | 2026-09-06T16:37:25Z |
 | Faculty - Computer Science, AI & Mathematics | Newton School | Sonipat, Haryana, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/faculty-computer-science-ai-mathematics-at-newton-school-4463399100) | 2026-09-06T16:37:25Z |
@@ -67,7 +68,7 @@
 | Walk In Drive on 20 Aug @Noida | Process Trainer | TELUS Digital | Noida, Uttar Pradesh, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/walk-in-drive-on-20-aug-%40noida-process-trainer-at-telus-digital-4452388735) | 2026-09-06T16:37:25Z |
 | Full Stack Development Trainer | upGrad | Bhopal, Madhya Pradesh, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/full-stack-development-trainer-at-upgrad-4460475715) | 2026-09-06T16:37:25Z |
 | Data Scientist + Instructor | Newton School of Technology | Sonipat, Haryana, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/data-scientist-%2B-instructor-at-newton-school-of-technology-4458362580) | 2026-09-06T16:37:25Z |
-| Technology Educator | Accenture in India | Gurugram, Haryana, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/technology-educator-at-accenture-in-india-4448332421) | 2026-09-06T16:37:25Z |
+| Technology Educator | Accenture in India | Gurugram, Haryana, India | 6 days ago | [link](https://in.linkedin.com/jobs/view/technology-educator-at-accenture-in-india-4448332421) | 2026-09-06T16:37:25Z |
 | Faculty - Quantitative Aptitude / Maths (99%ile+ CAT QA) | AceIPM | Noida, Uttar Pradesh, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/faculty-quantitative-aptitude-maths-99%25ile%2B-cat-qa-at-aceipm-4453521675) | 2026-09-06T16:37:25Z |
 | Assistant Professor of Decision Science | GLA University | Mathura, Uttar Pradesh, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-of-decision-science-at-gla-university-4462161096) | 2026-09-06T16:37:25Z |
 | Assistant / Associate Professor (Operations & Data Science) | SVKM's Narsee Monjee Institute of Management Studies (NMIMS) | Mumbai, Maharashtra, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/assistant-associate-professor-operations-data-science-at-svkm-s-narsee-monjee-institute-of-management-studies-nmims-4462123200) | 2026-09-06T16:37:25Z |
