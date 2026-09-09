@@ -39,7 +39,7 @@
 | Trainer (Assessments) | ETS | Greater Delhi Area | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/trainer-assessments-at-ets-4422444131) | 2026-09-06T17:05:52Z |
 | Trainer | Entire Skill | Punjab, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/trainer-at-entire-skill-4462397633) | 2026-09-06T17:05:52Z |
 | Technical Training Analyst - Trainer | NTT DATA North America | Noida, Uttar Pradesh, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/technical-training-analyst-trainer-at-ntt-data-north-america-4447013057) | 2026-09-06T17:05:52Z |
-| Banner Consultant | Tata Consultancy Services | New Delhi, Delhi, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/banner-consultant-at-tata-consultancy-services-4440207353) | 2026-09-06T17:05:52Z |
+| Banner Consultant | Tata Consultancy Services | New Delhi, Delhi, India | 4 weeks ago | [link](https://in.linkedin.com/jobs/view/banner-consultant-at-tata-consultancy-services-4440207353) | 2026-09-06T17:05:52Z |
 | Deep Learning Trainer | Algomind Academy | Indore, Madhya Pradesh, India | 1 month ago | [link](https://in.linkedin.com/jobs/view/deep-learning-trainer-at-algomind-academy-4448939485) | 2026-09-06T16:44:45Z |
 | AI/ML Trainer/Mentor | Engineer Sahab | Indore, Madhya Pradesh, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/ai-ml-trainer-mentor-at-engineer-sahab-4455017789) | 2026-09-06T16:44:45Z |
 | Instructor | Sheryians Coding School | Bhopal, Madhya Pradesh, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/instructor-at-sheryians-coding-school-4455871547) | 2026-09-06T16:44:45Z |
