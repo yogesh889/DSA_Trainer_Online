@@ -5,7 +5,7 @@
 | Robotic Trainer | Zigsaw | Udaipur, Rajasthan, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/robotic-trainer-at-zigsaw-4463821793) | 2026-09-10T09:45:23Z |
 | Data science trainer | Codingsthan Technologies | Jaipur, Rajasthan, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-at-codingsthan-technologies-4463010107) | 2026-09-10T09:45:23Z |
 | FCS Training Analyst | Barclays | Noida, Uttar Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/fcs-training-analyst-at-barclays-4462554054) | 2026-09-10T09:45:23Z |
-| Robotics & AI Trainer | AeroBay | Ranchi, Jharkhand, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/robotics-ai-trainer-at-aerobay-4462514750) | 2026-09-10T09:45:23Z |
+| Robotics & AI Trainer | AeroBay | Ranchi, Jharkhand, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/robotics-ai-trainer-at-aerobay-4462514750) | 2026-09-10T09:45:23Z |
 | Training Specialist, Last Mile - Training Team | Amazon | Patna, Chhattisgarh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/training-specialist-last-mile-training-team-at-amazon-4464639721) | 2026-09-10T09:45:23Z |
 | Data Science Instructor | Itvedant Education Pvt. Ltd. | Hyderabad, Telangana, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/data-science-instructor-at-itvedant-education-pvt-ltd-4462939655) | 2026-09-09T22:34:24Z |
 | Assistant Professor | The NorthCap University | Gurugram, Haryana, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-at-the-northcap-university-4464644538) | 2026-09-09T18:37:32Z |
@@ -86,7 +86,7 @@
 | Technical Trainer | Parul University | Vadodara, Gujarat, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-parul-university-4458393186) | 2026-09-06T16:37:25Z |
 | Specialist - AI Trainer | Accenture in India | Hyderabad, Telangana, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/specialist-ai-trainer-at-accenture-in-india-4448328722) | 2026-09-06T16:37:25Z |
 | Services Training Engineer | Alstom | Saharanpur, Uttar Pradesh, India | 1 month ago | [link](https://in.linkedin.com/jobs/view/services-training-engineer-at-alstom-4438796390) | 2026-09-06T16:37:25Z |
-| Faculty - Computer Science, AI & Mathematics | Newton School | Sonipat, Haryana, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/faculty-computer-science-ai-mathematics-at-newton-school-4463399100) | 2026-09-06T16:37:25Z |
+| Faculty - Computer Science, AI & Mathematics | Newton School | Sonipat, Haryana, India | 6 days ago | [link](https://in.linkedin.com/jobs/view/faculty-computer-science-ai-mathematics-at-newton-school-4463399100) | 2026-09-06T16:37:25Z |
 | Full Stack Instructor | upGrad | Bhopal, Madhya Pradesh, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/full-stack-instructor-at-upgrad-4456839583) | 2026-09-06T16:37:25Z |
 | Technical Trainer | Anteelo | Delhi Cantonment, Delhi, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-anteelo-4454324702) | 2026-09-06T16:37:25Z |
 | Master Trainer | Edunet Foundation | Ujjain, Madhya Pradesh, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/master-trainer-at-edunet-foundation-4458732171) | 2026-09-06T16:37:25Z |
