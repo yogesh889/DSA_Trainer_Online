@@ -1,12 +1,13 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Robotics Trainer | Makers' Muse | Delhi Cantonment, Delhi, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/robotics-trainer-at-makers-muse-4464516204) | 2026-09-10T22:36:01Z |
 | Trainer, GSF Learning and development, GSF Learning and development | Amazon | New Delhi, Delhi, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/trainer-gsf-learning-and-development-gsf-learning-and-development-at-amazon-4455905311) | 2026-09-10T14:27:27Z |
 | Trainer | Futurense Technologies | Phagwara, Punjab, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/trainer-at-futurense-technologies-4463811485) | 2026-09-10T09:45:23Z |
 | Robotic Trainer | Zigsaw | Udaipur, Rajasthan, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/robotic-trainer-at-zigsaw-4463821793) | 2026-09-10T09:45:23Z |
 | Data science trainer | Codingsthan Technologies | Jaipur, Rajasthan, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-at-codingsthan-technologies-4463010107) | 2026-09-10T09:45:23Z |
-| FCS Training Analyst | Barclays | Noida, Uttar Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/fcs-training-analyst-at-barclays-4462554054) | 2026-09-10T09:45:23Z |
+| FCS Training Analyst | Barclays | Noida, Uttar Pradesh, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/fcs-training-analyst-at-barclays-4462554054) | 2026-09-10T09:45:23Z |
 | Robotics & AI Trainer | AeroBay | Ranchi, Jharkhand, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/robotics-ai-trainer-at-aerobay-4462514750) | 2026-09-10T09:45:23Z |
-| Training Specialist, Last Mile - Training Team | Amazon | Patna, Chhattisgarh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/training-specialist-last-mile-training-team-at-amazon-4464639721) | 2026-09-10T09:45:23Z |
+| Training Specialist, Last Mile - Training Team | Amazon | Patna, Chhattisgarh, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/training-specialist-last-mile-training-team-at-amazon-4464639721) | 2026-09-10T09:45:23Z |
 | Data Science Instructor | Itvedant Education Pvt. Ltd. | Hyderabad, Telangana, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/data-science-instructor-at-itvedant-education-pvt-ltd-4462939655) | 2026-09-09T22:34:24Z |
 | Assistant Professor | The NorthCap University | Gurugram, Haryana, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-at-the-northcap-university-4464644538) | 2026-09-09T18:37:32Z |
 | AI/ML & Data Science Trainer - On-Site | Gujarat | Red & White Skill Education Official | Valsad, Gujarat, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/ai-ml-data-science-trainer-on-site-gujarat-at-red-white-skill-education-official-4462277752) | 2026-09-09T14:37:02Z |
@@ -40,7 +41,7 @@
 | Robotics Trainer | Makers' Muse | Udaipur, Rajasthan, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/robotics-trainer-at-makers-muse-4456209249) | 2026-09-07T04:42:48Z |
 | Service Desk Trainer | Tata Consultancy Services | Bengaluru, Karnataka, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/service-desk-trainer-at-tata-consultancy-services-4458773106) | 2026-09-07T04:42:48Z |
 | Technical Trainer - AI | Talentgigs | Nagpur, Maharashtra, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-ai-at-talentgigs-4460967765) | 2026-09-07T04:42:48Z |
-| WINDOWS TRAINER | HCLTech | Noida, Uttar Pradesh, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/windows-trainer-at-hcltech-4461401180) | 2026-09-07T04:42:48Z |
+| WINDOWS TRAINER | HCLTech | Noida, Uttar Pradesh, India | 6 days ago | [link](https://in.linkedin.com/jobs/view/windows-trainer-at-hcltech-4461401180) | 2026-09-07T04:42:48Z |
 | AI & Generative AI Trainer – Subject Matter Expert (SME) | Softcrayons IT Education | Noida, Uttar Pradesh, India | 1 month ago | [link](https://in.linkedin.com/jobs/view/ai-generative-ai-trainer-%E2%80%93-subject-matter-expert-sme-at-softcrayons-it-education-4449475929) | 2026-09-07T04:42:48Z |
 | Tutor - Digital Trust | BSI | Delhi, Delhi, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/tutor-digital-trust-at-bsi-4429688515) | 2026-09-07T04:42:48Z |
 | Technical Trainer | Infosys | Mysore, Karnataka, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-infosys-4439403723) | 2026-09-06T22:08:02Z |
