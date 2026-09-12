@@ -1,5 +1,6 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Aptitude  Trainers  | Semester Training | AP & Tamilnadu | SNVA Group | Vijayawada, Andhra Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/aptitude-trainers-semester-training-ap-tamilnadu-at-snva-group-4463940837) | 2026-09-12T04:35:15Z |
 | Management Mentor - NET / SET Qualified or Ph .D | FACE Prep | Chennai, Tamil Nadu, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/management-mentor-net-set-qualified-or-ph-d-at-face-prep-4464515891) | 2026-09-11T14:27:07Z |
 | Assistant Professor in Computer Science & Engineering (CSE) | Raisoni Education | Pandhurna, Madhya Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-in-computer-science-engineering-cse-at-raisoni-education-4463474255) | 2026-09-11T14:27:07Z |
 | Adv Generative Trainer | Naresh i Technologies | Hyderabad, Telangana, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/adv-generative-trainer-at-naresh-i-technologies-4464523206) | 2026-09-11T14:27:07Z |
