@@ -1,5 +1,6 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Technical Trainer - Navodaya Institute of Technology | Navodaya Education Trust | Raichur, Karnataka, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-navodaya-institute-of-technology-at-navodaya-education-trust-4465486836) | 2026-09-15T04:55:45Z |
 | Assistant Professor - ME/MTech - (Computer Science Background Only) | Six Phrase | Veranda | Coimbatore, Tamil Nadu, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-me-mtech-computer-science-background-only-at-six-phrase-veranda-4465462553) | 2026-09-14T19:50:58Z |
 | Technical Trainer | Infosys | Mysore, Karnataka, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-infosys-4437552274) | 2026-09-14T19:50:58Z |
 | Assistant professor -ME/MTech - (Computer science Background) | Six Phrase | Veranda | Karur, Tamil Nadu, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-me-mtech-computer-science-background-at-six-phrase-veranda-4465405727) | 2026-09-13T18:13:00Z |
@@ -10,7 +11,7 @@
 | Assistant Professor of Computer Science ( M.tech & JAVA) | FACE Prep | Chennai, Tamil Nadu, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-of-computer-science-m-tech-java-at-face-prep-4464833696) | 2026-09-12T09:22:59Z |
 | Technical Trainer | Infosys | Mysore, Karnataka, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-infosys-4464598205) | 2026-09-12T09:22:59Z |
 | Assistant Professor | Pallavi Engineering College | Hyderabad, Telangana, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-at-pallavi-engineering-college-4464862237) | 2026-09-12T09:22:59Z |
-| Aptitude  Trainers  | Semester Training | AP & Tamilnadu | SNVA Group | Vijayawada, Andhra Pradesh, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/aptitude-trainers-semester-training-ap-tamilnadu-at-snva-group-4463940837) | 2026-09-12T04:35:15Z |
+| Aptitude  Trainers  | Semester Training | AP & Tamilnadu | SNVA Group | Vijayawada, Andhra Pradesh, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/aptitude-trainers-semester-training-ap-tamilnadu-at-snva-group-4463940837) | 2026-09-12T04:35:15Z |
 | Management Mentor - NET / SET Qualified or Ph .D | FACE Prep | Chennai, Tamil Nadu, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/management-mentor-net-set-qualified-or-ph-d-at-face-prep-4464515891) | 2026-09-11T14:27:07Z |
 | Assistant Professor in Computer Science & Engineering (CSE) | Raisoni Education | Pandhurna, Madhya Pradesh, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-in-computer-science-engineering-cse-at-raisoni-education-4463474255) | 2026-09-11T14:27:07Z |
 | Adv Generative Trainer | Naresh i Technologies | Hyderabad, Telangana, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/adv-generative-trainer-at-naresh-i-technologies-4464523206) | 2026-09-11T14:27:07Z |
