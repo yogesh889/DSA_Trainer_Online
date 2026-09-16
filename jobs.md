@@ -1,5 +1,6 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Technical Trainer | Infosys | Mysore, Karnataka, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-infosys-4439403723) | 2026-09-16T18:54:45Z |
 | JAVA + DSA TRAINER - BHOPAL | Cybrom Technology Pvt. Ltd (Official) | Bhopal, Madhya Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/java-%2B-dsa-trainer-bhopal-at-cybrom-technology-pvt-ltd-official-4465537722) | 2026-09-16T14:59:03Z |
 | Technical Trainer - C Program | Six Phrase | Veranda | Erode, Tamil Nadu, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-c-program-at-six-phrase-veranda-4466194606) | 2026-09-16T14:59:03Z |
 | Logical & Reasoning Trainer | Veranda HigherEd | Vijayawada, Andhra Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/logical-reasoning-trainer-at-veranda-highered-4466177641) | 2026-09-16T09:57:43Z |
