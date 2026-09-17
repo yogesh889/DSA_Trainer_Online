@@ -1,5 +1,6 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| AI Trainer | Edunet Foundation | Rajasthan, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/ai-trainer-at-edunet-foundation-4467990149) | 2026-09-17T19:02:45Z |
 | SDE 2/3 + Senior Instructor - DSA | Newton School of Technology | Sonipat, Haryana, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/sde-2-3-%2B-senior-instructor-dsa-at-newton-school-of-technology-4466856638) | 2026-09-17T15:00:20Z |
 | SDE 2/3 + Senior Instructor -  Competitive Programming (DSA) | Newton School | Bengaluru, Karnataka, India | 1 month ago | [link](https://in.linkedin.com/jobs/view/sde-2-3-%2B-senior-instructor-competitive-programming-dsa-at-newton-school-4454394952) | 2026-09-17T15:00:20Z |
 | Stock Market Trainer (ALGO Trainer) | ICFM - Institute of Career In Financial Market (Unit of Career Pro Ventures Ltd) | Preet Vihar, Delhi, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/stock-market-trainer-algo-trainer-at-icfm-institute-of-career-in-financial-market-unit-of-career-pro-ventures-ltd-4465970275) | 2026-09-17T10:00:31Z |
