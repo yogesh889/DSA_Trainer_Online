@@ -1,5 +1,6 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Sketch artist and 3D software Faculty | MAAC Jaipur | Jaipur, Rajasthan, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/sketch-artist-and-3d-software-faculty-at-maac-jaipur-4467164503) | 2026-09-18T04:44:40Z |
 | AI Trainer | Edunet Foundation | Rajasthan, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/ai-trainer-at-edunet-foundation-4467990149) | 2026-09-17T19:02:45Z |
 | SDE 2/3 + Senior Instructor - DSA | Newton School of Technology | Sonipat, Haryana, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/sde-2-3-%2B-senior-instructor-dsa-at-newton-school-of-technology-4466856638) | 2026-09-17T15:00:20Z |
 | SDE 2/3 + Senior Instructor -  Competitive Programming (DSA) | Newton School | Bengaluru, Karnataka, India | 1 month ago | [link](https://in.linkedin.com/jobs/view/sde-2-3-%2B-senior-instructor-competitive-programming-dsa-at-newton-school-4454394952) | 2026-09-17T15:00:20Z |
@@ -15,7 +16,7 @@
 | DSA & Backend Engineering Mentor | Polaris School of Technology | Bengaluru, Karnataka, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/dsa-backend-engineering-mentor-at-polaris-school-of-technology-4466185767) | 2026-09-16T09:57:43Z |
 | Data Science Trainer | Itvedant Education Pvt. Ltd. | Hyderabad, Telangana, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-at-itvedant-education-pvt-ltd-4466190307) | 2026-09-16T09:57:43Z |
 | Quant & Aptitude Trainer | Hitbullseye | Chandigarh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/quant-aptitude-trainer-at-hitbullseye-4465752282) | 2026-09-15T15:01:24Z |
-| Technical Trainer - Navodaya Institute of Technology | Navodaya Education Trust | Raichur, Karnataka, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-navodaya-institute-of-technology-at-navodaya-education-trust-4465486836) | 2026-09-15T04:55:45Z |
+| Technical Trainer - Navodaya Institute of Technology | Navodaya Education Trust | Raichur, Karnataka, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-navodaya-institute-of-technology-at-navodaya-education-trust-4465486836) | 2026-09-15T04:55:45Z |
 | Assistant Professor - ME/MTech - (Computer Science Background Only) | Six Phrase | Veranda | Coimbatore, Tamil Nadu, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-me-mtech-computer-science-background-only-at-six-phrase-veranda-4465462553) | 2026-09-14T19:50:58Z |
 | Technical Trainer | Infosys | Mysore, Karnataka, India | 6 days ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-infosys-4437552274) | 2026-09-14T19:50:58Z |
 | Assistant professor -ME/MTech - (Computer science Background) | Six Phrase | Veranda | Karur, Tamil Nadu, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-me-mtech-computer-science-background-at-six-phrase-veranda-4465405727) | 2026-09-13T18:13:00Z |
@@ -25,7 +26,7 @@
 | AI Trainers & Researchers | Brainware University | Barasat, West Bengal, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/ai-trainers-researchers-at-brainware-university-4466079026) | 2026-09-12T13:37:20Z |
 | Assistant Professor of Computer Science ( M.tech & JAVA) | FACE Prep | Chennai, Tamil Nadu, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-of-computer-science-m-tech-java-at-face-prep-4464833696) | 2026-09-12T09:22:59Z |
 | Technical Trainer | Infosys | Mysore, Karnataka, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-infosys-4464598205) | 2026-09-12T09:22:59Z |
-| Assistant Professor | Pallavi Engineering College | Hyderabad, Telangana, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-at-pallavi-engineering-college-4464862237) | 2026-09-12T09:22:59Z |
+| Assistant Professor | Pallavi Engineering College | Hyderabad, Telangana, India | 6 days ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-at-pallavi-engineering-college-4464862237) | 2026-09-12T09:22:59Z |
 | Aptitude  Trainers  | Semester Training | AP & Tamilnadu | SNVA Group | Vijayawada, Andhra Pradesh, India | 6 days ago | [link](https://in.linkedin.com/jobs/view/aptitude-trainers-semester-training-ap-tamilnadu-at-snva-group-4463940837) | 2026-09-12T04:35:15Z |
 | Management Mentor - NET / SET Qualified or Ph .D | FACE Prep | Chennai, Tamil Nadu, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/management-mentor-net-set-qualified-or-ph-d-at-face-prep-4464515891) | 2026-09-11T14:27:07Z |
 | Assistant Professor in Computer Science & Engineering (CSE) | Raisoni Education | Pandhurna, Madhya Pradesh, India | 6 days ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-in-computer-science-engineering-cse-at-raisoni-education-4463474255) | 2026-09-11T14:27:07Z |
@@ -85,7 +86,7 @@
 | AI/ML Trainer/Mentor | Engineer Sahab | Indore, Madhya Pradesh, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/ai-ml-trainer-mentor-at-engineer-sahab-4455017789) | 2026-09-06T16:44:45Z |
 | Instructor | Sheryians Coding School | Bhopal, Madhya Pradesh, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/instructor-at-sheryians-coding-school-4455871547) | 2026-09-06T16:44:45Z |
 | AI/ML Trainer | AS Technology Corporation | Delhi, India | 4 weeks ago | [link](https://in.linkedin.com/jobs/view/ai-ml-trainer-at-as-technology-corporation-4449568673) | 2026-09-06T16:44:45Z |
-| Technical Trainer | Chitkara University, Punjab | Rajpura, Punjab, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-chitkara-university-punjab-4431565758) | 2026-09-06T16:44:45Z |
+| Technical Trainer | Chitkara University, Punjab | Rajpura, Punjab, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-chitkara-university-punjab-4431565758) | 2026-09-06T16:44:45Z |
 | DSA Trainer | iamneo - An NIIT Venture | India | 4 weeks ago | [link](https://in.linkedin.com/jobs/view/dsa-trainer-at-iamneo-an-niit-venture-4455201421) | 2026-09-06T16:44:45Z |
 | Mentor | Polaris School of Technology | Bengaluru, Karnataka, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/mentor-at-polaris-school-of-technology-4456873640) | 2026-09-06T16:44:45Z |
 | Assistant Professor - Business Analytics | MIT ADT University | Pune District, Maharashtra, India | 6 days ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-business-analytics-at-mit-adt-university-4459768661) | 2026-09-06T16:44:45Z |
