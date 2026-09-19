@@ -1,5 +1,6 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Data Science & AI Trainer | Jivoraa | Gurugram, Haryana, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/data-science-ai-trainer-at-jivoraa-4466910537) | 2026-09-19T18:01:58Z |
 | QA/DILR Faculty | IMS Learning Resources Pvt. Ltd. | Faridabad, Haryana, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/qa-dilr-faculty-at-ims-learning-resources-pvt-ltd-4460253230) | 2026-09-19T13:56:00Z |
 | Assistant professor -ME/MTech - (CS Background) | Six Phrase | Veranda | Karur, Tamil Nadu, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-me-mtech-cs-background-at-six-phrase-veranda-4467841672) | 2026-09-19T13:56:00Z |
 | Data Analytics Trainer | HCLTech | Delhi, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/data-analytics-trainer-at-hcltech-4466906252) | 2026-09-19T13:56:00Z |
