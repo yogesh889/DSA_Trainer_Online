@@ -1,10 +1,12 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Data Science Professor | Imarticus Learning | Mumbai, Maharashtra, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/data-science-professor-at-imarticus-learning-4467634051) | 2026-09-22T18:55:24Z |
+| Data Science Instructor - Learning Centre | upGrad | Raipur, Chhattisgarh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/data-science-instructor-learning-centre-at-upgrad-4467609524) | 2026-09-22T18:55:24Z |
 | SDE + Associate Instructor (DSA) | Newton School of Technology | Sonipat, Haryana, India | 6 days ago | [link](https://in.linkedin.com/jobs/view/sde-%2B-associate-instructor-dsa-at-newton-school-of-technology-4466852432) | 2026-09-21T20:00:25Z |
 | Subject Matter Expert | Fireblaze AI School | Nagpur, Maharashtra, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/subject-matter-expert-at-fireblaze-ai-school-4468081163) | 2026-09-21T20:00:25Z |
 | Technical Trainer - C Programming Language | Six Phrase | Veranda | Erode, Tamil Nadu, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-c-programming-language-at-six-phrase-veranda-4468085861) | 2026-09-20T14:14:28Z |
 | Data Science Trainer | Real Jobs Consulting Services | Greater Delhi Area | 1 day ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-at-real-jobs-consulting-services-4468073189) | 2026-09-20T09:49:51Z |
-| Data Science & AI Trainer | Jivoraa | Gurugram, Haryana, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/data-science-ai-trainer-at-jivoraa-4466910537) | 2026-09-19T18:01:58Z |
+| Data Science & AI Trainer | Jivoraa | Gurugram, Haryana, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/data-science-ai-trainer-at-jivoraa-4466910537) | 2026-09-19T18:01:58Z |
 | QA/DILR Faculty | IMS Learning Resources Pvt. Ltd. | Faridabad, Haryana, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/qa-dilr-faculty-at-ims-learning-resources-pvt-ltd-4460253230) | 2026-09-19T13:56:00Z |
 | Assistant professor -ME/MTech - (CS Background) | Six Phrase | Veranda | Karur, Tamil Nadu, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-me-mtech-cs-background-at-six-phrase-veranda-4467841672) | 2026-09-19T13:56:00Z |
 | Data Analytics Trainer | HCLTech | Delhi, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/data-analytics-trainer-at-hcltech-4466906252) | 2026-09-19T13:56:00Z |
@@ -59,7 +61,7 @@
 | Robotics & AI Trainer | AeroBay | Ranchi, Jharkhand, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/robotics-ai-trainer-at-aerobay-4462514750) | 2026-09-10T09:45:23Z |
 | Training Specialist, Last Mile - Training Team | Amazon | Patna, Chhattisgarh, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/training-specialist-last-mile-training-team-at-amazon-4464639721) | 2026-09-10T09:45:23Z |
 | Data Science Instructor | Itvedant Education Pvt. Ltd. | Hyderabad, Telangana, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/data-science-instructor-at-itvedant-education-pvt-ltd-4462939655) | 2026-09-09T22:34:24Z |
-| Assistant Professor | The NorthCap University | Gurugram, Haryana, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-at-the-northcap-university-4464644538) | 2026-09-09T18:37:32Z |
+| Assistant Professor | The NorthCap University | Gurugram, Haryana, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-at-the-northcap-university-4464644538) | 2026-09-09T18:37:32Z |
 | AI/ML & Data Science Trainer - On-Site | Gujarat | Red & White Skill Education Official | Valsad, Gujarat, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/ai-ml-data-science-trainer-on-site-gujarat-at-red-white-skill-education-official-4462277752) | 2026-09-09T14:37:02Z |
 | IT Trainer | Larsen & Toubro | Mumbai, Maharashtra, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/it-trainer-at-larsen-toubro-4451325839) | 2026-09-09T14:37:02Z |
 | Assistant Professor – Computer Science | VYMAK Degree College | Bengaluru, Karnataka, India | 1 month ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-%E2%80%93-computer-science-at-vymak-degree-college-4448992253) | 2026-09-09T09:47:08Z |
@@ -155,5 +157,5 @@
 | Associate Professor-Statistics, UNSW - Bengaluru Campus | Emeritus | Bengaluru, Karnataka, India | 1 month ago | [link](https://in.linkedin.com/jobs/view/associate-professor-statistics-unsw-bengaluru-campus-at-emeritus-4454070021) | 2026-09-06T16:37:25Z |
 | CLINICAL SAS TRAINER | Proxima Skills Academy | Bengaluru, Karnataka, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/clinical-sas-trainer-at-proxima-skills-academy-4459906884) | 2026-09-06T16:37:25Z |
 | Adv Generative and Agentic AI Trainer | Naresh i Technologies | Hyderabad, Telangana, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/adv-generative-and-agentic-ai-trainer-at-naresh-i-technologies-4462372234) | 2026-09-06T16:37:25Z |
-| Associate Professor Statistics | UNSW Bengaluru | Bengaluru, Karnataka, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/associate-professor-statistics-at-unsw-bengaluru-4457602235) | 2026-09-06T16:37:25Z |
+| Associate Professor Statistics | UNSW Bengaluru | Bengaluru, Karnataka, India | 4 weeks ago | [link](https://in.linkedin.com/jobs/view/associate-professor-statistics-at-unsw-bengaluru-4457602235) | 2026-09-06T16:37:25Z |
 | Technical Trainer | Infosys | Mysore, Karnataka, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-infosys-4456671547) | 2026-09-06T16:37:25Z |
