@@ -1,5 +1,6 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| IIM Mumbai Recruitment 2026 – For 15 Academic Associate Posts | Aavedan | Maharashtra, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/iim-mumbai-recruitment-2026-%E2%80%93-for-15-academic-associate-posts-at-aavedan-4471122498) | 2026-09-24T23:13:00Z |
 | QA DI LR Faculty - Jodhpur | Toprankers | Jodhpur, Rajasthan, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/qa-di-lr-faculty-jodhpur-at-toprankers-4469442708) | 2026-09-24T15:07:17Z |
 | QA DI LR Faculty - Jaipur | Toprankers | Jaipur, Rajasthan, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/qa-di-lr-faculty-jaipur-at-toprankers-4469443735) | 2026-09-24T15:07:17Z |
 | Programming trainer | Primezone Computer Education | Mumbai, Maharashtra, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/programming-trainer-at-primezone-computer-education-4468979884) | 2026-09-24T10:02:12Z |
