@@ -1,5 +1,6 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Assistant/Associate Professor - AI/ML (Pune) | Newton School of Technology | Pune District, Maharashtra, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/assistant-associate-professor-ai-ml-pune-at-newton-school-of-technology-4468572282) | 2026-09-25T23:18:53Z |
 | Competitive Aptitude Trainer | MIT ADT University | Pune District, Maharashtra, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/competitive-aptitude-trainer-at-mit-adt-university-4471451631) | 2026-09-25T15:19:43Z |
 | AI-ML Trainer - Edtech (Bhopal) | Cybrom Technology Pvt. Ltd (Official) | Bhopal, Madhya Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/ai-ml-trainer-edtech-bhopal-at-cybrom-technology-pvt-ltd-official-4469746751) | 2026-09-25T15:19:43Z |
 | Technical Trainer (Faculty) - Bhopal | Cybrom Technology Pvt. Ltd (Official) | Bhopal, Madhya Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-faculty-bhopal-at-cybrom-technology-pvt-ltd-official-4469745633) | 2026-09-25T15:19:43Z |
@@ -52,7 +53,7 @@
 | Quant & Aptitude Trainer | Hitbullseye | Chandigarh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/quant-aptitude-trainer-at-hitbullseye-4465752282) | 2026-09-15T15:01:24Z |
 | Technical Trainer - Navodaya Institute of Technology | Navodaya Education Trust | Raichur, Karnataka, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-navodaya-institute-of-technology-at-navodaya-education-trust-4465486836) | 2026-09-15T04:55:45Z |
 | Assistant Professor - ME/MTech - (Computer Science Background Only) | Six Phrase | Veranda | Coimbatore, Tamil Nadu, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-me-mtech-computer-science-background-only-at-six-phrase-veranda-4465462553) | 2026-09-14T19:50:58Z |
-| Technical Trainer | Infosys | Mysore, Karnataka, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-infosys-4437552274) | 2026-09-14T19:50:58Z |
+| Technical Trainer | Infosys | Mysore, Karnataka, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-infosys-4437552274) | 2026-09-14T19:50:58Z |
 | Assistant professor -ME/MTech - (Computer science Background) | Six Phrase | Veranda | Karur, Tamil Nadu, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-me-mtech-computer-science-background-at-six-phrase-veranda-4465405727) | 2026-09-13T18:13:00Z |
 | Data Science Trainer- Pitampura | SkillCircle™ | New Delhi, Delhi, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-pitampura-at-skillcircle%E2%84%A2-4464266946) | 2026-09-13T10:18:01Z |
 | AI/ML  & Gen AI Faculty (Trainer) (Bhopal) | Cybrom Technology Pvt. Ltd (Official) | Bhopal, Madhya Pradesh, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/ai-ml-gen-ai-faculty-trainer-bhopal-at-cybrom-technology-pvt-ltd-official-4463980541) | 2026-09-12T13:37:20Z |
