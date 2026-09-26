@@ -1,5 +1,7 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| ETL Trainer & Data Science Trainer | Techpanda Academy | Chennai, Tamil Nadu, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/etl-trainer-data-science-trainer-at-techpanda-academy-4470090951) | 2026-09-26T18:37:22Z |
+| R Programming Trainer | Raman Pushkar Consulting | Yelahanka, Karnataka, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/r-programming-trainer-at-raman-pushkar-consulting-4470348783) | 2026-09-26T18:37:22Z |
 | Programming Trainer – C/Python | Six Phrase | Veranda | Erode, Tamil Nadu, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/programming-trainer-%E2%80%93-c-python-at-six-phrase-veranda-4470099618) | 2026-09-26T14:30:13Z |
 | Technical Trainer | Infosys | Mysore, Karnataka, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-infosys-4470056578) | 2026-09-26T09:53:02Z |
 | Technical Trainer | Chitkara University, Punjab | Rajpura, Punjab, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-chitkara-university-punjab-4470138462) | 2026-09-26T09:53:02Z |
@@ -20,7 +22,7 @@
 | Aptitude Trainer | Rajalakshmi Institute of Technology | Chennai, Tamil Nadu, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/aptitude-trainer-at-rajalakshmi-institute-of-technology-4470244633) | 2026-09-23T04:46:12Z |
 | Geethanjali Institute of Science and Technology Nellore recruitment of Faculty, Trainers | IndiaStudyChannel.com | Nellore Mandal, Andhra Pradesh, India | 4 weeks ago | [link](https://in.linkedin.com/jobs/view/geethanjali-institute-of-science-and-technology-nellore-recruitment-of-faculty-trainers-at-indiastudychannel-com-4469402273) | 2026-09-23T04:46:12Z |
 | Data Science Professor | Imarticus Learning | Mumbai, Maharashtra, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/data-science-professor-at-imarticus-learning-4467634051) | 2026-09-22T18:55:24Z |
-| Data Science Instructor - Learning Centre | upGrad | Raipur, Chhattisgarh, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/data-science-instructor-learning-centre-at-upgrad-4467609524) | 2026-09-22T18:55:24Z |
+| Data Science Instructor - Learning Centre | upGrad | Raipur, Chhattisgarh, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/data-science-instructor-learning-centre-at-upgrad-4467609524) | 2026-09-22T18:55:24Z |
 | SDE + Associate Instructor (DSA) | Newton School of Technology | Sonipat, Haryana, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/sde-%2B-associate-instructor-dsa-at-newton-school-of-technology-4466852432) | 2026-09-21T20:00:25Z |
 | Subject Matter Expert | Fireblaze AI School | Nagpur, Maharashtra, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/subject-matter-expert-at-fireblaze-ai-school-4468081163) | 2026-09-21T20:00:25Z |
 | Technical Trainer - C Programming Language | Six Phrase | Veranda | Erode, Tamil Nadu, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-c-programming-language-at-six-phrase-veranda-4468085861) | 2026-09-20T14:14:28Z |
