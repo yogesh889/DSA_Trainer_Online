@@ -1,5 +1,10 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Programming/AI/ML Mentor in Ahmedabad | The Innovation Story | Ahmedabad, Gujarat, India | 4 weeks ago | [link](https://in.linkedin.com/jobs/view/programming-ai-ml-mentor-in-ahmedabad-at-the-innovation-story-4460135484) | 2026-09-26T22:52:21Z |
+| Assistant Professor-Quantitative Technique - ASMSOC-Mumbai | SVKM's Narsee Monjee Institute of Management Studies (NMIMS) | Mumbai, Maharashtra, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-quantitative-technique-asmsoc-mumbai-at-svkm-s-narsee-monjee-institute-of-management-studies-nmims-4462790826) | 2026-09-26T22:52:21Z |
+| Applied AI Trainer | Sunstone | Jaipur, Rajasthan, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/applied-ai-trainer-at-sunstone-4468707576) | 2026-09-26T22:52:21Z |
+| Technical Trainer | CHANDIGARH UNIVERSITY | Mohali district, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-chandigarh-university-4471441452) | 2026-09-26T22:52:21Z |
+| Specialist Assistant Manager - Growth and Development - Deloitte Technology Academy (Python and SQL) - Hyderabad | Deloitte | Hyderabad, Telangana, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/specialist-assistant-manager-growth-and-development-deloitte-technology-academy-python-and-sql-hyderabad-at-deloitte-4451124222) | 2026-09-26T22:52:21Z |
 | ETL Trainer & Data Science Trainer | Techpanda Academy | Chennai, Tamil Nadu, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/etl-trainer-data-science-trainer-at-techpanda-academy-4470090951) | 2026-09-26T18:37:22Z |
 | R Programming Trainer | Raman Pushkar Consulting | Yelahanka, Karnataka, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/r-programming-trainer-at-raman-pushkar-consulting-4470348783) | 2026-09-26T18:37:22Z |
 | Programming Trainer – C/Python | Six Phrase | Veranda | Erode, Tamil Nadu, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/programming-trainer-%E2%80%93-c-python-at-six-phrase-veranda-4470099618) | 2026-09-26T14:30:13Z |
