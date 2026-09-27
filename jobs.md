@@ -1,5 +1,6 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Assistant Professor | REVA University | Bengaluru, Karnataka, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-at-reva-university-4470547213) | 2026-09-27T05:19:32Z |
 | Programming/AI/ML Mentor in Ahmedabad | The Innovation Story | Ahmedabad, Gujarat, India | 4 weeks ago | [link](https://in.linkedin.com/jobs/view/programming-ai-ml-mentor-in-ahmedabad-at-the-innovation-story-4460135484) | 2026-09-26T22:52:21Z |
 | Assistant Professor-Quantitative Technique - ASMSOC-Mumbai | SVKM's Narsee Monjee Institute of Management Studies (NMIMS) | Mumbai, Maharashtra, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-quantitative-technique-asmsoc-mumbai-at-svkm-s-narsee-monjee-institute-of-management-studies-nmims-4462790826) | 2026-09-26T22:52:21Z |
 | Applied AI Trainer | Sunstone | Jaipur, Rajasthan, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/applied-ai-trainer-at-sunstone-4468707576) | 2026-09-26T22:52:21Z |
@@ -14,7 +15,7 @@
 | Competitive Aptitude Trainer | MIT ADT University | Pune District, Maharashtra, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/competitive-aptitude-trainer-at-mit-adt-university-4471451631) | 2026-09-25T15:19:43Z |
 | AI-ML Trainer - Edtech (Bhopal) | Cybrom Technology Pvt. Ltd (Official) | Bhopal, Madhya Pradesh, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/ai-ml-trainer-edtech-bhopal-at-cybrom-technology-pvt-ltd-official-4469746751) | 2026-09-25T15:19:43Z |
 | Technical Trainer (Faculty) - Bhopal | Cybrom Technology Pvt. Ltd (Official) | Bhopal, Madhya Pradesh, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-faculty-bhopal-at-cybrom-technology-pvt-ltd-official-4469745633) | 2026-09-25T15:19:43Z |
-| Quant and DILR Faculty | IMS Gujarat | Surat, Gujarat, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/quant-and-dilr-faculty-at-ims-gujarat-4467331701) | 2026-09-25T10:12:39Z |
+| Quant and DILR Faculty | IMS Gujarat | Surat, Gujarat, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/quant-and-dilr-faculty-at-ims-gujarat-4467331701) | 2026-09-25T10:12:39Z |
 | IIM Mumbai Recruitment 2026 – For 15 Academic Associate Posts | Aavedan | Maharashtra, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/iim-mumbai-recruitment-2026-%E2%80%93-for-15-academic-associate-posts-at-aavedan-4471122498) | 2026-09-24T23:13:00Z |
 | QA DI LR Faculty - Jodhpur | Toprankers | Jodhpur, Rajasthan, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/qa-di-lr-faculty-jodhpur-at-toprankers-4469442708) | 2026-09-24T15:07:17Z |
 | QA DI LR Faculty - Jaipur | Toprankers | Jaipur, Rajasthan, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/qa-di-lr-faculty-jaipur-at-toprankers-4469443735) | 2026-09-24T15:07:17Z |
