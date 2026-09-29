@@ -1,5 +1,7 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| ASSISTANT PROFESSOR — COMPUTER SCIENCE (BCA) | Banaras Institute of Teacher's Education | Varanasi, Uttar Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-%E2%80%94-computer-science-bca-at-banaras-institute-of-teacher-s-education-4471381754) | 2026-09-29T19:59:41Z |
+| AI/ML  & Gen AI Faculty (Trainer) (Bhopal) | Cybrom Technology Pvt. Ltd (Official) | Bhopal, Madhya Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/ai-ml-gen-ai-faculty-trainer-bhopal-at-cybrom-technology-pvt-ltd-official-4471508052) | 2026-09-29T19:59:41Z |
 | Faculty Positions in Statistics | Centre for Sustainable Employment | Bengaluru, Karnataka, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/faculty-positions-in-statistics-at-centre-for-sustainable-employment-4472481878) | 2026-09-29T11:23:18Z |
 | Technical Trainer | Parul University | Vadodara, Gujarat, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-parul-university-4471356208) | 2026-09-29T11:23:18Z |
 | Various positions | PDCOR Ltd. | Jaipur, Rajasthan, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/various-positions-at-pdcor-ltd-4470821894) | 2026-09-29T11:23:18Z |
@@ -12,8 +14,8 @@
 | Applied AI Trainer | Sunstone | Jaipur, Rajasthan, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/applied-ai-trainer-at-sunstone-4468707576) | 2026-09-26T22:52:21Z |
 | Technical Trainer | CHANDIGARH UNIVERSITY | Mohali district, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-chandigarh-university-4471441452) | 2026-09-26T22:52:21Z |
 | Specialist Assistant Manager - Growth and Development - Deloitte Technology Academy (Python and SQL) - Hyderabad | Deloitte | Hyderabad, Telangana, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/specialist-assistant-manager-growth-and-development-deloitte-technology-academy-python-and-sql-hyderabad-at-deloitte-4451124222) | 2026-09-26T22:52:21Z |
-| ETL Trainer & Data Science Trainer | Techpanda Academy | Chennai, Tamil Nadu, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/etl-trainer-data-science-trainer-at-techpanda-academy-4470090951) | 2026-09-26T18:37:22Z |
-| R Programming Trainer | Raman Pushkar Consulting | Yelahanka, Karnataka, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/r-programming-trainer-at-raman-pushkar-consulting-4470348783) | 2026-09-26T18:37:22Z |
+| ETL Trainer & Data Science Trainer | Techpanda Academy | Chennai, Tamil Nadu, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/etl-trainer-data-science-trainer-at-techpanda-academy-4470090951) | 2026-09-26T18:37:22Z |
+| R Programming Trainer | Raman Pushkar Consulting | Yelahanka, Karnataka, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/r-programming-trainer-at-raman-pushkar-consulting-4470348783) | 2026-09-26T18:37:22Z |
 | Programming Trainer – C/Python | Six Phrase | Veranda | Erode, Tamil Nadu, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/programming-trainer-%E2%80%93-c-python-at-six-phrase-veranda-4470099618) | 2026-09-26T14:30:13Z |
 | Technical Trainer | Infosys | Mysore, Karnataka, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-infosys-4470056578) | 2026-09-26T09:53:02Z |
 | Technical Trainer | Chitkara University, Punjab | Rajpura, Punjab, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-chitkara-university-punjab-4470138462) | 2026-09-26T09:53:02Z |
@@ -23,8 +25,8 @@
 | Technical Trainer (Faculty) - Bhopal | Cybrom Technology Pvt. Ltd (Official) | Bhopal, Madhya Pradesh, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-faculty-bhopal-at-cybrom-technology-pvt-ltd-official-4469745633) | 2026-09-25T15:19:43Z |
 | Quant and DILR Faculty | IMS Gujarat | Surat, Gujarat, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/quant-and-dilr-faculty-at-ims-gujarat-4467331701) | 2026-09-25T10:12:39Z |
 | IIM Mumbai Recruitment 2026 – For 15 Academic Associate Posts | Aavedan | Maharashtra, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/iim-mumbai-recruitment-2026-%E2%80%93-for-15-academic-associate-posts-at-aavedan-4471122498) | 2026-09-24T23:13:00Z |
-| QA DI LR Faculty - Jodhpur | Toprankers | Jodhpur, Rajasthan, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/qa-di-lr-faculty-jodhpur-at-toprankers-4469442708) | 2026-09-24T15:07:17Z |
-| QA DI LR Faculty - Jaipur | Toprankers | Jaipur, Rajasthan, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/qa-di-lr-faculty-jaipur-at-toprankers-4469443735) | 2026-09-24T15:07:17Z |
+| QA DI LR Faculty - Jodhpur | Toprankers | Jodhpur, Rajasthan, India | 6 days ago | [link](https://in.linkedin.com/jobs/view/qa-di-lr-faculty-jodhpur-at-toprankers-4469442708) | 2026-09-24T15:07:17Z |
+| QA DI LR Faculty - Jaipur | Toprankers | Jaipur, Rajasthan, India | 6 days ago | [link](https://in.linkedin.com/jobs/view/qa-di-lr-faculty-jaipur-at-toprankers-4469443735) | 2026-09-24T15:07:17Z |
 | Programming trainer | Primezone Computer Education | Mumbai, Maharashtra, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/programming-trainer-at-primezone-computer-education-4468979884) | 2026-09-24T10:02:12Z |
 | Programming Trainer – C/Python | Six Phrase | Veranda | Erode, Tamil Nadu, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/programming-trainer-%E2%80%93-c-python-at-six-phrase-veranda-4469419216) | 2026-09-24T10:02:12Z |
 | IT Trainer (BCA, BSc IT & Software Programming) | COMPCRAFT | Mumbai Metropolitan Region | 6 days ago | [link](https://in.linkedin.com/jobs/view/it-trainer-bca-bsc-it-software-programming-at-compcraft-4468993123) | 2026-09-24T10:02:12Z |
@@ -94,9 +96,9 @@
 | Robotics & AI Trainer | AeroBay | Ranchi, Jharkhand, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/robotics-ai-trainer-at-aerobay-4462514750) | 2026-09-10T09:45:23Z |
 | Training Specialist, Last Mile - Training Team | Amazon | Patna, Chhattisgarh, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/training-specialist-last-mile-training-team-at-amazon-4464639721) | 2026-09-10T09:45:23Z |
 | Data Science Instructor | Itvedant Education Pvt. Ltd. | Hyderabad, Telangana, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/data-science-instructor-at-itvedant-education-pvt-ltd-4462939655) | 2026-09-09T22:34:24Z |
-| Assistant Professor | The NorthCap University | Gurugram, Haryana, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-at-the-northcap-university-4464644538) | 2026-09-09T18:37:32Z |
+| Assistant Professor | The NorthCap University | Gurugram, Haryana, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-at-the-northcap-university-4464644538) | 2026-09-09T18:37:32Z |
 | AI/ML & Data Science Trainer - On-Site | Gujarat | Red & White Skill Education Official | Valsad, Gujarat, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/ai-ml-data-science-trainer-on-site-gujarat-at-red-white-skill-education-official-4462277752) | 2026-09-09T14:37:02Z |
-| IT Trainer | Larsen & Toubro | Mumbai, Maharashtra, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/it-trainer-at-larsen-toubro-4451325839) | 2026-09-09T14:37:02Z |
+| IT Trainer | Larsen & Toubro | Mumbai, Maharashtra, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/it-trainer-at-larsen-toubro-4451325839) | 2026-09-09T14:37:02Z |
 | Assistant Professor – Computer Science | VYMAK Degree College | Bengaluru, Karnataka, India | 1 month ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-%E2%80%93-computer-science-at-vymak-degree-college-4448992253) | 2026-09-09T09:47:08Z |
 | Robotics Instructor | NASCA | Kanpur, Uttar Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/robotics-instructor-at-nasca-4462212416) | 2026-09-08T22:41:26Z |
 | Trainer | CorroHealth | Noida, Uttar Pradesh, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/trainer-at-corrohealth-4462944501) | 2026-09-08T22:41:26Z |
