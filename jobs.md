@@ -1,5 +1,6 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Hiring For Data Science Trainer | Seven Seas Digital Marketing Agency | Pune Division, Maharashtra, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/hiring-for-data-science-trainer-at-seven-seas-digital-marketing-agency-4473507895) | 2026-09-30T23:51:04Z |
 | Java + DSA Trainer - Bhopal | Cybrom Technology Pvt. Ltd (Official) | Bhopal, Madhya Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/java-%2B-dsa-trainer-bhopal-at-cybrom-technology-pvt-ltd-official-4471725723) | 2026-09-30T16:25:20Z |
 | Computer Programming Trainer - Java/C | Six Phrase | Veranda | Bengaluru, Karnataka, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/computer-programming-trainer-java-c-at-six-phrase-veranda-4471717495) | 2026-09-30T16:25:20Z |
 | TISS Teaching Recruitment 2026 – Apply Online for 9 Faculty Posts | Aavedan | Assam, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/tiss-teaching-recruitment-2026-%E2%80%93-apply-online-for-9-faculty-posts-at-aavedan-4473215403) | 2026-09-30T16:25:20Z |
@@ -21,7 +22,7 @@
 | Technical Trainer | CHANDIGARH UNIVERSITY | Mohali district, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-chandigarh-university-4471441452) | 2026-09-26T22:52:21Z |
 | Specialist Assistant Manager - Growth and Development - Deloitte Technology Academy (Python and SQL) - Hyderabad | Deloitte | Hyderabad, Telangana, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/specialist-assistant-manager-growth-and-development-deloitte-technology-academy-python-and-sql-hyderabad-at-deloitte-4451124222) | 2026-09-26T22:52:21Z |
 | ETL Trainer & Data Science Trainer | Techpanda Academy | Chennai, Tamil Nadu, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/etl-trainer-data-science-trainer-at-techpanda-academy-4470090951) | 2026-09-26T18:37:22Z |
-| R Programming Trainer | Raman Pushkar Consulting | Yelahanka, Karnataka, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/r-programming-trainer-at-raman-pushkar-consulting-4470348783) | 2026-09-26T18:37:22Z |
+| R Programming Trainer | Raman Pushkar Consulting | Yelahanka, Karnataka, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/r-programming-trainer-at-raman-pushkar-consulting-4470348783) | 2026-09-26T18:37:22Z |
 | Programming Trainer – C/Python | Six Phrase | Veranda | Erode, Tamil Nadu, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/programming-trainer-%E2%80%93-c-python-at-six-phrase-veranda-4470099618) | 2026-09-26T14:30:13Z |
 | Technical Trainer | Infosys | Mysore, Karnataka, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-infosys-4470056578) | 2026-09-26T09:53:02Z |
 | Technical Trainer | Chitkara University, Punjab | Rajpura, Punjab, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-chitkara-university-punjab-4470138462) | 2026-09-26T09:53:02Z |
