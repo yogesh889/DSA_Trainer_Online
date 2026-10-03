@@ -1,7 +1,9 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Data Science Trainer | CoachX.Live | Pune District, Maharashtra, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-at-coachx-live-4473147656) | 2026-10-03T18:41:35Z |
+| Technical Trainer | Infosys | Mysore, Karnataka, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-infosys-4464598205) | 2026-10-03T18:41:35Z |
 | Aptitude Trainer | Presidency University Bangalore | Bengaluru, Karnataka, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/aptitude-trainer-at-presidency-university-bangalore-4473736789) | 2026-10-02T16:16:53Z |
-| Data analytics trainer | Vrs Universal | Mandsaur, Madhya Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/data-analytics-trainer-at-vrs-universal-4472316451) | 2026-10-02T16:16:53Z |
+| Data analytics trainer | Vrs Universal | Mandsaur, Madhya Pradesh, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/data-analytics-trainer-at-vrs-universal-4472316451) | 2026-10-02T16:16:53Z |
 | Aptitude Trainer | FACE Prep Campus | Vishakhapatnam, Andhra Pradesh, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/aptitude-trainer-at-face-prep-campus-4472399499) | 2026-10-02T16:16:53Z |
 | Math Expert with Ph.D | E-Solutions | India | 2 days ago | [link](https://in.linkedin.com/jobs/view/math-expert-with-ph-d-at-e-solutions-4474149803) | 2026-10-02T16:16:53Z |
 | Senior Trainer – Python Full Stack & Generative AI | Stellar Talent HR Consultancy LLP | Chennai, Tamil Nadu, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/senior-trainer-%E2%80%93-python-full-stack-generative-ai-at-stellar-talent-hr-consultancy-llp-4472543872) | 2026-10-02T16:16:53Z |
