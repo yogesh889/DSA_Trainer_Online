@@ -2,8 +2,8 @@
 | --- | --- | --- | --- | --- | --- |
 | Senior DSA Instructor - Full Time | AlgoTutor | Noida, Uttar Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/senior-dsa-instructor-full-time-at-algotutor-4475425273) | 2026-10-08T17:24:36Z |
 | AI-ML Trainer - Edtech (Bhopal) | Cybrom Technology Pvt. Ltd (Official) | Bhopal, Madhya Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/ai-ml-trainer-edtech-bhopal-at-cybrom-technology-pvt-ltd-official-4476572582) | 2026-10-08T17:24:36Z |
-| IT Trainer | Larsen & Toubro | Greater Chennai Area | 1 day ago | [link](https://in.linkedin.com/jobs/view/it-trainer-at-larsen-toubro-4475587007) | 2026-10-08T00:12:36Z |
-| Assistant Faculty – Reasoning (SSC & Railway) | Drishti IAS | Noida, Uttar Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/assistant-faculty-%E2%80%93-reasoning-ssc-railway-at-drishti-ias-4476758845) | 2026-10-08T00:12:36Z |
+| IT Trainer | Larsen & Toubro | Greater Chennai Area | 2 days ago | [link](https://in.linkedin.com/jobs/view/it-trainer-at-larsen-toubro-4475587007) | 2026-10-08T00:12:36Z |
+| Assistant Faculty – Reasoning (SSC & Railway) | Drishti IAS | Noida, Uttar Pradesh, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/assistant-faculty-%E2%80%93-reasoning-ssc-railway-at-drishti-ias-4476758845) | 2026-10-08T00:12:36Z |
 | Academic Project Mentor (AI & Full-Stack) | Yugam Technologies | Pune/Pimpri-Chinchwad Area | 1 day ago | [link](https://in.linkedin.com/jobs/view/academic-project-mentor-ai-full-stack-at-yugam-technologies-4476383444) | 2026-10-08T00:12:36Z |
 | C++ & DSA Trainer | Fireblaze AI School | Nagpur, Maharashtra, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/c%2B%2B-dsa-trainer-at-fireblaze-ai-school-4474693033) | 2026-10-07T17:26:01Z |
 | AI & Data Science Trainer | Samatrix Consulting Private Limited | Jaipur, Rajasthan, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/ai-data-science-trainer-at-samatrix-consulting-private-limited-4474989297) | 2026-10-07T17:26:01Z |
@@ -12,7 +12,7 @@
 | Associate - Collections - Quality and Training | SkillLabs | Bengaluru, Karnataka, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/associate-collections-quality-and-training-at-skilllabs-4474646565) | 2026-10-07T06:00:53Z |
 | Mentor - Prayagraj | Drishti IAS | Prayagraj, Uttar Pradesh, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/mentor-prayagraj-at-drishti-ias-4476324052) | 2026-10-07T06:00:53Z |
 | Associate Professor / Professor of Practice - Advanced Computing | DBS Global University | Dehradun, Uttarakhand, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/associate-professor-professor-of-practice-advanced-computing-at-dbs-global-university-4474018796) | 2026-10-07T06:00:53Z |
-| Mathematics Instructor | Programming Pathshala | New Delhi, Delhi, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/mathematics-instructor-at-programming-pathshala-4474299733) | 2026-10-06T20:21:14Z |
+| Mathematics Instructor | Programming Pathshala | New Delhi, Delhi, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/mathematics-instructor-at-programming-pathshala-4474299733) | 2026-10-06T20:21:14Z |
 | Senior Trainer - Analytics | SkillLabs | Mumbai, Maharashtra, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/senior-trainer-analytics-at-skilllabs-4474278460) | 2026-10-06T20:21:14Z |
 | Faculty, Trainer | AI/ML & Data Science | Red & White Skill Education Official | Surat, Gujarat, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/faculty-trainer-ai-ml-data-science-at-red-white-skill-education-official-4473630059) | 2026-10-06T12:02:35Z |
 | Assistant Professor of Decision Science | GLA University | Mathura, Uttar Pradesh, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-of-decision-science-at-gla-university-4475538214) | 2026-10-06T12:02:35Z |
