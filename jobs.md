@@ -1,9 +1,14 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Maths Mentor | FACE Prep Campus | Karur, Tamil Nadu, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/maths-mentor-at-face-prep-campus-4478465028) | 2026-10-15T15:01:54Z |
+| Mathematics Faculty 3 year Exp Jee/Neet Foundation | Tieten Medicity | Madhya Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/mathematics-faculty-3-year-exp-jee-neet-foundation-at-tieten-medicity-4476648523) | 2026-10-15T15:01:54Z |
+| Quant & Aptitude Faculty | Hitbullseye | Mohali district, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/quant-aptitude-faculty-at-hitbullseye-4478440697) | 2026-10-15T15:01:54Z |
+| Subject Matter Expert - Data Science | FACE Prep | Coimbatore, Tamil Nadu, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/subject-matter-expert-data-science-at-face-prep-4472511709) | 2026-10-15T15:01:54Z |
+| Assistant Professor - Me/MTech - CSE | Six Phrase | Veranda | Karur, Tamil Nadu, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-me-mtech-cse-at-six-phrase-veranda-4476630541) | 2026-10-15T15:01:54Z |
 | Quantitative Aptitutde Trainer | Career Launcher Thrissur | Thrissur, Kerala, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/quantitative-aptitutde-trainer-at-career-launcher-thrissur-4476625944) | 2026-10-15T09:55:30Z |
 | Aptitude & Reasoning Instructor | Neso Academy | Noida, Uttar Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/aptitude-reasoning-instructor-at-neso-academy-4475696793) | 2026-10-15T09:55:30Z |
-| AI Faculty | ANUDIP FOUNDATION | Nasik, Maharashtra, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/ai-faculty-at-anudip-foundation-4478777900) | 2026-10-14T19:25:00Z |
-| Senior Aptitude Trainer | FACE Prep | Vishakhapatnam, Andhra Pradesh, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/senior-aptitude-trainer-at-face-prep-4477568392) | 2026-10-14T19:25:00Z |
+| AI Faculty | ANUDIP FOUNDATION | Nasik, Maharashtra, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/ai-faculty-at-anudip-foundation-4478777900) | 2026-10-14T19:25:00Z |
+| Senior Aptitude Trainer | FACE Prep | Vishakhapatnam, Andhra Pradesh, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/senior-aptitude-trainer-at-face-prep-4477568392) | 2026-10-14T19:25:00Z |
 | Quant/Math Faculty | Council For American Education | New Delhi, Delhi, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/quant-math-faculty-at-council-for-american-education-4477965828) | 2026-10-14T10:14:30Z |
 | Aptitude Trainer - Jodhpur | FACE Prep | Jodhpur, Rajasthan, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/aptitude-trainer-jodhpur-at-face-prep-4477971163) | 2026-10-14T04:55:01Z |
 | AI/ML  & Gen AI Faculty (Trainer) (Bhopal) | Cybrom Technology Pvt. Ltd (Official) | Bhopal, Madhya Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/ai-ml-gen-ai-faculty-trainer-bhopal-at-cybrom-technology-pvt-ltd-official-4476025384) | 2026-10-14T04:55:01Z |
@@ -11,7 +16,7 @@
 | Aptitude Trainer | FACE Prep | Jodhpur, Rajasthan, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/aptitude-trainer-at-face-prep-4476006721) | 2026-10-13T12:43:33Z |
 | Aptitude Trainer | Six Phrase | Veranda | Chennai, Tamil Nadu, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/aptitude-trainer-at-six-phrase-veranda-4477223040) | 2026-10-13T02:01:20Z |
 | Quant/ LRDI Mentor | IMS Learning Resources Pvt. Ltd. | Pune Division, Maharashtra, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/quant-lrdi-mentor-at-ims-learning-resources-pvt-ltd-4475650925) | 2026-10-12T19:48:37Z |
-| Assistant Professor of Business Analytics | Amity Global Business School, Noida | Noida, Uttar Pradesh, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-of-business-analytics-at-amity-global-business-school-noida-4476263720) | 2026-10-12T19:48:37Z |
+| Assistant Professor of Business Analytics | Amity Global Business School, Noida | Noida, Uttar Pradesh, India | 6 days ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-of-business-analytics-at-amity-global-business-school-noida-4476263720) | 2026-10-12T19:48:37Z |
 | Technical Trainer | Six Phrase | Veranda | Chennai, Tamil Nadu, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-six-phrase-veranda-4475626151) | 2026-10-11T16:19:58Z |
 | Professor and Sr Associate Professor | Symbiosis Skills & Professional University | Pune/Pimpri-Chinchwad Area | 5 days ago | [link](https://in.linkedin.com/jobs/view/professor-and-sr-associate-professor-at-symbiosis-skills-professional-university-4475293924) | 2026-10-11T16:19:58Z |
 | Professor - Data Science | Imarticus Learning Pvt Ltd | Thane, Maharashtra, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/professor-data-science-at-imarticus-learning-pvt-ltd-4475286965) | 2026-10-11T05:47:39Z |
@@ -22,11 +27,11 @@
 | Data Science Trainer | REGex Software Services | Jaipur, Rajasthan, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-at-regex-software-services-4476290034) | 2026-10-10T15:52:57Z |
 | Data Science Mentor | FACE Prep | Coimbatore, Tamil Nadu, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/data-science-mentor-at-face-prep-4475961168) | 2026-10-09T20:07:11Z |
 | Lead Data science Instructor | Entri | Chennai, Tamil Nadu, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/lead-data-science-instructor-at-entri-4475986621) | 2026-10-09T20:07:11Z |
-| Faculty - Computer Science | UniAthena | India | 6 days ago | [link](https://in.linkedin.com/jobs/view/faculty-computer-science-at-uniathena-4475958216) | 2026-10-09T20:07:11Z |
+| Faculty - Computer Science | UniAthena | India | 1 week ago | [link](https://in.linkedin.com/jobs/view/faculty-computer-science-at-uniathena-4475958216) | 2026-10-09T20:07:11Z |
 | Aptitude Trainer | FACE Prep | Vishakhapatnam, Andhra Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/aptitude-trainer-at-face-prep-4475910859) | 2026-10-09T20:07:11Z |
 | Coding Instructor for 3 Star & 4 Star Coders | KLH | Hyderabad, Telangana, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/coding-instructor-for-3-star-4-star-coders-at-klh-4474668584) | 2026-10-09T11:54:39Z |
-| Data Science Trainer | Itvedant Education Pvt. Ltd. | Ahmedabad, Gujarat, India | 6 days ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-at-itvedant-education-pvt-ltd-4475924084) | 2026-10-09T11:54:39Z |
-| Data Science Trainer | Itvedant Education Pvt. Ltd. | Hyderabad, Telangana, India | 6 days ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-at-itvedant-education-pvt-ltd-4475913391) | 2026-10-09T11:54:39Z |
+| Data Science Trainer | Itvedant Education Pvt. Ltd. | Ahmedabad, Gujarat, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-at-itvedant-education-pvt-ltd-4475924084) | 2026-10-09T11:54:39Z |
+| Data Science Trainer | Itvedant Education Pvt. Ltd. | Hyderabad, Telangana, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-at-itvedant-education-pvt-ltd-4475913391) | 2026-10-09T11:54:39Z |
 | AI Trainer | Skryptee Innovations | Madanapalle, Andhra Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/ai-trainer-at-skryptee-innovations-4475733469) | 2026-10-09T11:54:39Z |
 | Senior DSA Instructor - Full Time | AlgoTutor | Noida, Uttar Pradesh, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/senior-dsa-instructor-full-time-at-algotutor-4475425273) | 2026-10-08T17:24:36Z |
 | AI-ML Trainer - Edtech (Bhopal) | Cybrom Technology Pvt. Ltd (Official) | Bhopal, Madhya Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/ai-ml-trainer-edtech-bhopal-at-cybrom-technology-pvt-ltd-official-4476572582) | 2026-10-08T17:24:36Z |
@@ -54,7 +59,7 @@
 | Aptitude Trainer | Presidency University Bangalore | Bengaluru, Karnataka, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/aptitude-trainer-at-presidency-university-bangalore-4473736789) | 2026-10-02T16:16:53Z |
 | Data analytics trainer | Vrs Universal | Mandsaur, Madhya Pradesh, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/data-analytics-trainer-at-vrs-universal-4472316451) | 2026-10-02T16:16:53Z |
 | Aptitude Trainer | FACE Prep Campus | Vishakhapatnam, Andhra Pradesh, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/aptitude-trainer-at-face-prep-campus-4472399499) | 2026-10-02T16:16:53Z |
-| Math Expert with Ph.D | E-Solutions | India | 1 week ago | [link](https://in.linkedin.com/jobs/view/math-expert-with-ph-d-at-e-solutions-4474149803) | 2026-10-02T16:16:53Z |
+| Math Expert with Ph.D | E-Solutions | India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/math-expert-with-ph-d-at-e-solutions-4474149803) | 2026-10-02T16:16:53Z |
 | Senior Trainer – Python Full Stack & Generative AI | Stellar Talent HR Consultancy LLP | Chennai, Tamil Nadu, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/senior-trainer-%E2%80%93-python-full-stack-generative-ai-at-stellar-talent-hr-consultancy-llp-4472543872) | 2026-10-02T16:16:53Z |
 | Technical Trainer | Techsara Solutions | Ahmedabad, Gujarat, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-techsara-solutions-4473958978) | 2026-10-01T23:53:35Z |
 | Data Science Trainer | Synnefo Solutions | Kochi, Kerala, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-at-synnefo-solutions-4473745145) | 2026-10-01T23:53:35Z |
