@@ -1,9 +1,10 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Assistant Professor | Pune Institute of Business Management | Mulshi, Maharashtra, India | 4 weeks ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-at-pune-institute-of-business-management-4468072139) | 2026-10-17T17:52:09Z |
 | AI/ML Trainer | Palin Analytics | Noida, Uttar Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/ai-ml-trainer-at-palin-analytics-4479336429) | 2026-10-17T13:43:40Z |
 | QA & Trainer | Fairdebt Solutions Private Limited | Bengaluru, Karnataka, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/qa-trainer-at-fairdebt-solutions-private-limited-4479345966) | 2026-10-17T13:43:40Z |
 | Lead Technical Trainer | Nucleus Software | Noida, Uttar Pradesh, India | 1 month ago | [link](https://in.linkedin.com/jobs/view/lead-technical-trainer-at-nucleus-software-4474572742) | 2026-10-17T13:43:40Z |
-| IT Trainers | Intern Academy | Aurangabad, Maharashtra, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/it-trainers-at-intern-academy-4479847725) | 2026-10-17T13:43:40Z |
+| IT Trainers | Intern Academy | Aurangabad, Maharashtra, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/it-trainers-at-intern-academy-4479847725) | 2026-10-17T13:43:40Z |
 | Assistant Professor of Computer Application | Manav Rachna International Institute of Research & Studies | Faridabad, Haryana, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-of-computer-application-at-manav-rachna-international-institute-of-research-studies-4478761710) | 2026-10-17T13:43:40Z |
 | Assistant Professor - SCMS | Dayananda Sagar University | Bengaluru, Karnataka, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-scms-at-dayananda-sagar-university-4108102520) | 2026-10-17T09:22:11Z |
 | Faculty position: AI-driven management and governance | Muthoot Business School | Kochi, Kerala, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/faculty-position-ai-driven-management-and-governance-at-muthoot-business-school-4479336322) | 2026-10-17T09:22:11Z |
