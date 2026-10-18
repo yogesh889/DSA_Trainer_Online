@@ -1,5 +1,6 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Technical Trainer | Infosys | Mysore, Karnataka, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-infosys-4470056578) | 2026-10-18T04:35:01Z |
 | Assistant Professor | Pune Institute of Business Management | Mulshi, Maharashtra, India | 4 weeks ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-at-pune-institute-of-business-management-4468072139) | 2026-10-17T17:52:09Z |
 | AI/ML Trainer | Palin Analytics | Noida, Uttar Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/ai-ml-trainer-at-palin-analytics-4479336429) | 2026-10-17T13:43:40Z |
 | QA & Trainer | Fairdebt Solutions Private Limited | Bengaluru, Karnataka, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/qa-trainer-at-fairdebt-solutions-private-limited-4479345966) | 2026-10-17T13:43:40Z |
