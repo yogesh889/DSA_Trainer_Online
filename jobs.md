@@ -93,7 +93,7 @@
 | Research Associate | Indian School of Business | Hyderabad, Telangana, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/research-associate-at-indian-school-of-business-4471258741) | 2026-10-04T23:11:06Z |
 | Management Mentor - NET / SET Qualified or Ph .D | FACE Prep | Chennai, Tamil Nadu, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/management-mentor-net-set-qualified-or-ph-d-at-face-prep-4473826987) | 2026-10-04T05:54:20Z |
 | NDA Faculty - Maths | Time Hack Consulting | Dalhousie, Himachal Pradesh, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/nda-faculty-maths-at-time-hack-consulting-4473333940) | 2026-10-03T23:04:59Z |
-| Data Science Trainer | CoachX.Live | Pune District, Maharashtra, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-at-coachx-live-4473147656) | 2026-10-03T18:41:35Z |
+| Data Science Trainer | CoachX.Live | Pune District, Maharashtra, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-at-coachx-live-4473147656) | 2026-10-03T18:41:35Z |
 | Technical Trainer | Infosys | Mysore, Karnataka, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-infosys-4464598205) | 2026-10-03T18:41:35Z |
 | Aptitude Trainer | Presidency University Bangalore | Bengaluru, Karnataka, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/aptitude-trainer-at-presidency-university-bangalore-4473736789) | 2026-10-02T16:16:53Z |
 | Data analytics trainer | Vrs Universal | Mandsaur, Madhya Pradesh, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/data-analytics-trainer-at-vrs-universal-4472316451) | 2026-10-02T16:16:53Z |
