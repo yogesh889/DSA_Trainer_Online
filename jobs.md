@@ -1,5 +1,6 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Subject Matter Expert - Data Science | FACE Prep Campus | Coimbatore, Tamil Nadu, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/subject-matter-expert-data-science-at-face-prep-campus-4471593474) | 2026-10-24T18:10:11Z |
 | Technical Trainer | Infosys | Mysore, Karnataka, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-infosys-4464598205) | 2026-10-24T14:01:04Z |
 | AR/VR Faculty | SVR Robotics | Bhubaneswar, Odisha, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/ar-vr-faculty-at-svr-robotics-4480656142) | 2026-10-24T14:01:04Z |
 | AI Faculty, Trainers & Technical Mentors | Deepstaq | Kannur, Kerala, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/ai-faculty-trainers-technical-mentors-at-deepstaq-4482453604) | 2026-10-24T04:37:43Z |
@@ -18,7 +19,7 @@
 | Professor/ Associate Professor / Assistant Professor - Business Analytics | NMIMS CDOE | Mumbai, Maharashtra, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/professor-associate-professor-assistant-professor-business-analytics-at-nmims-cdoe-4480295778) | 2026-10-21T04:48:32Z |
 | Professor/ Associate Professor / Assistant Professor - Digital Marketing | NMIMS CDOE | Mumbai, Maharashtra, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/professor-associate-professor-assistant-professor-digital-marketing-at-nmims-cdoe-4480407250) | 2026-10-21T04:48:32Z |
 | Hiring Immediately Maths Faculty IIT (Gujarati+ English Medium)For a Reputed Institute Located In Rajkot, Gujarat - ( Job ID - 24354) | EH Jobs | Rajkot, Gujarat, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/hiring-immediately-maths-faculty-iit-gujarati%2B-english-medium-for-a-reputed-institute-located-in-rajkot-gujarat-job-id-24354-at-eh-jobs-4473752719) | 2026-10-21T04:48:32Z |
-| Data Science Instructor - Learning Centre | upGrad | Raipur, Chhattisgarh, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/data-science-instructor-learning-centre-at-upgrad-4467609524) | 2026-10-20T15:06:39Z |
+| Data Science Instructor - Learning Centre | upGrad | Raipur, Chhattisgarh, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/data-science-instructor-learning-centre-at-upgrad-4467609524) | 2026-10-20T15:06:39Z |
 | Tech Mentor | Polaris School of Technology | Bengaluru, Karnataka, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/tech-mentor-at-polaris-school-of-technology-4479666749) | 2026-10-20T15:06:39Z |
 | Senior Trainer – AI, Data Analytics & Python | MGrow | Ayodhya, Uttar Pradesh, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/senior-trainer-%E2%80%93-ai-data-analytics-python-at-mgrow-4478844457) | 2026-10-20T15:06:39Z |
 | Full stack development assistant professor | ImaginXP | Gujarat, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/full-stack-development-assistant-professor-at-imaginxp-4478250541) | 2026-10-20T15:06:39Z |
