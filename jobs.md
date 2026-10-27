@@ -1,5 +1,7 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Research Associate | Indian School of Business | Hyderabad, Telangana, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/research-associate-at-indian-school-of-business-4471258741) | 2026-10-27T20:05:56Z |
+| Academic Associate - Operations Management | Indian School of Business | Sas Nagar, Punjab, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/academic-associate-operations-management-at-indian-school-of-business-4481421439) | 2026-10-27T20:05:56Z |
 | NDA Faculty - Maths | Time Hack Consulting | Dalhousie, Himachal Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/nda-faculty-maths-at-time-hack-consulting-4482935261) | 2026-10-27T10:35:14Z |
 | Mathematics Faculty for JEE | Bidyasagar Classes - India | Bhubaneswar, Odisha, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/mathematics-faculty-for-jee-at-bidyasagar-classes-india-4481078897) | 2026-10-27T10:35:14Z |
 | Applied AI Trainer | Stride School of Business | Jaipur, Rajasthan, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/applied-ai-trainer-at-stride-school-of-business-4482938283) | 2026-10-27T10:35:14Z |
@@ -58,7 +60,7 @@
 | Assistant Professor - Me/MTech - CSE | Six Phrase | Veranda | Karur, Tamil Nadu, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-me-mtech-cse-at-six-phrase-veranda-4476630541) | 2026-10-15T15:01:54Z |
 | Quantitative Aptitutde Trainer | Career Launcher Thrissur | Thrissur, Kerala, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/quantitative-aptitutde-trainer-at-career-launcher-thrissur-4476625944) | 2026-10-15T09:55:30Z |
 | Aptitude & Reasoning Instructor | Neso Academy | Noida, Uttar Pradesh, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/aptitude-reasoning-instructor-at-neso-academy-4475696793) | 2026-10-15T09:55:30Z |
-| AI Faculty | ANUDIP FOUNDATION | Nasik, Maharashtra, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/ai-faculty-at-anudip-foundation-4478777900) | 2026-10-14T19:25:00Z |
+| AI Faculty | ANUDIP FOUNDATION | Nasik, Maharashtra, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/ai-faculty-at-anudip-foundation-4478777900) | 2026-10-14T19:25:00Z |
 | Senior Aptitude Trainer | FACE Prep | Vishakhapatnam, Andhra Pradesh, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/senior-aptitude-trainer-at-face-prep-4477568392) | 2026-10-14T19:25:00Z |
 | Quant/Math Faculty | Council For American Education | New Delhi, Delhi, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/quant-math-faculty-at-council-for-american-education-4477965828) | 2026-10-14T10:14:30Z |
 | Aptitude Trainer - Jodhpur | FACE Prep | Jodhpur, Rajasthan, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/aptitude-trainer-jodhpur-at-face-prep-4477971163) | 2026-10-14T04:55:01Z |
@@ -86,7 +88,7 @@
 | AI Trainer | Skryptee Innovations | Madanapalle, Andhra Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/ai-trainer-at-skryptee-innovations-4475733469) | 2026-10-09T11:54:39Z |
 | Senior DSA Instructor - Full Time | AlgoTutor | Noida, Uttar Pradesh, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/senior-dsa-instructor-full-time-at-algotutor-4475425273) | 2026-10-08T17:24:36Z |
 | AI-ML Trainer - Edtech (Bhopal) | Cybrom Technology Pvt. Ltd (Official) | Bhopal, Madhya Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/ai-ml-trainer-edtech-bhopal-at-cybrom-technology-pvt-ltd-official-4476572582) | 2026-10-08T17:24:36Z |
-| IT Trainer | Larsen & Toubro | Greater Chennai Area | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/it-trainer-at-larsen-toubro-4475587007) | 2026-10-08T00:12:36Z |
+| IT Trainer | Larsen & Toubro | Greater Chennai Area | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/it-trainer-at-larsen-toubro-4475587007) | 2026-10-08T00:12:36Z |
 | Assistant Faculty – Reasoning (SSC & Railway) | Drishti IAS | Noida, Uttar Pradesh, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/assistant-faculty-%E2%80%93-reasoning-ssc-railway-at-drishti-ias-4476758845) | 2026-10-08T00:12:36Z |
 | Academic Project Mentor (AI & Full-Stack) | Yugam Technologies | Pune/Pimpri-Chinchwad Area | 1 day ago | [link](https://in.linkedin.com/jobs/view/academic-project-mentor-ai-full-stack-at-yugam-technologies-4476383444) | 2026-10-08T00:12:36Z |
 | C++ & DSA Trainer | Fireblaze AI School | Nagpur, Maharashtra, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/c%2B%2B-dsa-trainer-at-fireblaze-ai-school-4474693033) | 2026-10-07T17:26:01Z |
@@ -117,7 +119,7 @@
 | Python Trainer | Technoledge™ | Chhattisgarh, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/python-trainer-at-technoledge%E2%84%A2-4472130325) | 2026-10-01T17:02:26Z |
 | Mathematics/Abacus/Vedic Math Trainer in Dibrugarh, Guwahati | SR Edu Technologies Pvt Ltd | Dibrugarh East, Assam, India | 4 weeks ago | [link](https://in.linkedin.com/jobs/view/mathematics-abacus-vedic-math-trainer-in-dibrugarh-guwahati-at-sr-edu-technologies-pvt-ltd-4473040593) | 2026-10-01T05:55:15Z |
 | Mathematics/Abacus/Vedic Math Trainer in Dibrugarh, Guwahati | SR Edu Technologies Pvt Ltd | Guwahati, Assam, India | 4 weeks ago | [link](https://in.linkedin.com/jobs/view/mathematics-abacus-vedic-math-trainer-in-dibrugarh-guwahati-at-sr-edu-technologies-pvt-ltd-4473043481) | 2026-10-01T05:55:15Z |
-| Hiring For Data Science Trainer | Seven Seas Digital Marketing Agency | Pune Division, Maharashtra, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/hiring-for-data-science-trainer-at-seven-seas-digital-marketing-agency-4473507895) | 2026-09-30T23:51:04Z |
+| Hiring For Data Science Trainer | Seven Seas Digital Marketing Agency | Pune Division, Maharashtra, India | 4 weeks ago | [link](https://in.linkedin.com/jobs/view/hiring-for-data-science-trainer-at-seven-seas-digital-marketing-agency-4473507895) | 2026-09-30T23:51:04Z |
 | Java + DSA Trainer - Bhopal | Cybrom Technology Pvt. Ltd (Official) | Bhopal, Madhya Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/java-%2B-dsa-trainer-bhopal-at-cybrom-technology-pvt-ltd-official-4471725723) | 2026-09-30T16:25:20Z |
 | Computer Programming Trainer - Java/C | Six Phrase | Veranda | Bengaluru, Karnataka, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/computer-programming-trainer-java-c-at-six-phrase-veranda-4471717495) | 2026-09-30T16:25:20Z |
 | TISS Teaching Recruitment 2026 – Apply Online for 9 Faculty Posts | Aavedan | Assam, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/tiss-teaching-recruitment-2026-%E2%80%93-apply-online-for-9-faculty-posts-at-aavedan-4473215403) | 2026-09-30T16:25:20Z |
