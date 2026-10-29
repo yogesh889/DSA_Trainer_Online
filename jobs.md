@@ -1,5 +1,6 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Mathematics Faculty - JEE/CET Level | IITians Science Point | Mumbai, Maharashtra, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/mathematics-faculty-jee-cet-level-at-iitians-science-point-4481097716) | 2026-10-29T00:00:42Z |
 | SDE + Associate Instructor - Applied Cryptopraphy | Newton School of Technology | Pune District, Maharashtra, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/sde-%2B-associate-instructor-applied-cryptopraphy-at-newton-school-of-technology-4483605810) | 2026-10-28T16:38:24Z |
 | Data Science Trainer | Future Optima IT Solutions PVT LTD | Kochi, Kerala, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-at-future-optima-it-solutions-pvt-ltd-4481854325) | 2026-10-28T16:38:24Z |
 | Digital Marketing Trainer | NDMIT | Lucknow, Uttar Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/digital-marketing-trainer-at-ndmit-4483610699) | 2026-10-28T16:38:24Z |
@@ -119,7 +120,7 @@
 | Aptitude Trainer | FACE Prep Campus | Vishakhapatnam, Andhra Pradesh, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/aptitude-trainer-at-face-prep-campus-4472399499) | 2026-10-02T16:16:53Z |
 | Math Expert with Ph.D | E-Solutions | India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/math-expert-with-ph-d-at-e-solutions-4474149803) | 2026-10-02T16:16:53Z |
 | Senior Trainer – Python Full Stack & Generative AI | Stellar Talent HR Consultancy LLP | Chennai, Tamil Nadu, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/senior-trainer-%E2%80%93-python-full-stack-generative-ai-at-stellar-talent-hr-consultancy-llp-4472543872) | 2026-10-02T16:16:53Z |
-| Technical Trainer | Techsara Solutions | Ahmedabad, Gujarat, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-techsara-solutions-4473958978) | 2026-10-01T23:53:35Z |
+| Technical Trainer | Techsara Solutions | Ahmedabad, Gujarat, India | 4 weeks ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-techsara-solutions-4473958978) | 2026-10-01T23:53:35Z |
 | Data Science Trainer | Synnefo Solutions | Kochi, Kerala, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-at-synnefo-solutions-4473745145) | 2026-10-01T23:53:35Z |
 | AI/ML Trainer | Engineer Sahab | Indore, Madhya Pradesh, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/ai-ml-trainer-at-engineer-sahab-4472113659) | 2026-10-01T17:02:26Z |
 | Business Analytics Faculty - as per UGC Cadre | ATLAS SkillTech University | Mumbai Metropolitan Region | 1 week ago | [link](https://in.linkedin.com/jobs/view/business-analytics-faculty-as-per-ugc-cadre-at-atlas-skilltech-university-4472306215) | 2026-10-01T17:02:26Z |
