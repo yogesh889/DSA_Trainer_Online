@@ -1,5 +1,6 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Assistant Professor, Analytics/Artificial Intelligence @ Kochi | Amrita Vishwa Vidyapeetham | Ralegaon, Maharashtra, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-analytics-artificial-intelligence-%40-kochi-at-amrita-vishwa-vidyapeetham-4479404252) | 2026-10-31T23:24:10Z |
 | AI/ML Senior Faculty | Moople - Institute Of Animation And Design | Kolkata metropolitan area, West Bengal, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/ai-ml-senior-faculty-at-moople-institute-of-animation-and-design-4484828650) | 2026-10-31T15:44:44Z |
 | Python Full Stack Trainer - GenAI / AI-M | Artifex HR Private Limited | Chennai, Tamil Nadu, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/python-full-stack-trainer-genai-ai-m-at-artifex-hr-private-limited-4484834545) | 2026-10-31T15:44:44Z |
 | Python Trainer | Tiju's Academy | Tiruvalla, Kerala, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/python-trainer-at-tiju-s-academy-4484817505) | 2026-10-31T15:44:44Z |
@@ -24,7 +25,7 @@
 | SDE + Associate Instructor - Applied Cryptopraphy | Newton School of Technology | Pune District, Maharashtra, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/sde-%2B-associate-instructor-applied-cryptopraphy-at-newton-school-of-technology-4483605810) | 2026-10-28T16:38:24Z |
 | Data Science Trainer | Future Optima IT Solutions PVT LTD | Kochi, Kerala, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-at-future-optima-it-solutions-pvt-ltd-4481854325) | 2026-10-28T16:38:24Z |
 | Digital Marketing Trainer | NDMIT | Lucknow, Uttar Pradesh, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/digital-marketing-trainer-at-ndmit-4483610699) | 2026-10-28T16:38:24Z |
-| Aptitude Trainer | Six Phrase | Veranda | Amaravati, Andhra Pradesh, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/aptitude-trainer-at-six-phrase-veranda-4481884008) | 2026-10-28T16:38:24Z |
+| Aptitude Trainer | Six Phrase | Veranda | Amaravati, Andhra Pradesh, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/aptitude-trainer-at-six-phrase-veranda-4481884008) | 2026-10-28T16:38:24Z |
 | Data Engineer Instructor | DataCouch | Sahibzada Ajit Singh Nagar, Punjab, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/data-engineer-instructor-at-datacouch-4483615470) | 2026-10-28T16:38:24Z |
 | Java Developer Trainer | KSR Datavizon | Hyderabad, Telangana, India | 3 days ago | [link](https://in.linkedin.com/jobs/view/java-developer-trainer-at-ksr-datavizon-4481851207) | 2026-10-28T16:38:24Z |
 | Aptitude Trainer | FACE Prep | Amaravati, Andhra Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/aptitude-trainer-at-face-prep-4481852156) | 2026-10-28T05:43:12Z |
@@ -123,7 +124,7 @@
 | AI & Data Science Trainer | Samatrix Consulting Private Limited | Jaipur, Rajasthan, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/ai-data-science-trainer-at-samatrix-consulting-private-limited-4474989297) | 2026-10-07T17:26:01Z |
 | Digital Marketing Trainer | NDMIT | Lucknow, Uttar Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/digital-marketing-trainer-at-ndmit-4474695201) | 2026-10-07T17:26:01Z |
 | Aptitude & Reasoning Trainer | KL University, Vaddeswaram | Guntur, Andhra Pradesh, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/aptitude-reasoning-trainer-at-kl-university-vaddeswaram-4474682076) | 2026-10-07T06:00:53Z |
-| Associate - Collections - Quality and Training | SkillLabs | Bengaluru, Karnataka, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/associate-collections-quality-and-training-at-skilllabs-4474646565) | 2026-10-07T06:00:53Z |
+| Associate - Collections - Quality and Training | SkillLabs | Bengaluru, Karnataka, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/associate-collections-quality-and-training-at-skilllabs-4474646565) | 2026-10-07T06:00:53Z |
 | Mentor - Prayagraj | Drishti IAS | Prayagraj, Uttar Pradesh, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/mentor-prayagraj-at-drishti-ias-4476324052) | 2026-10-07T06:00:53Z |
 | Associate Professor / Professor of Practice - Advanced Computing | DBS Global University | Dehradun, Uttarakhand, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/associate-professor-professor-of-practice-advanced-computing-at-dbs-global-university-4474018796) | 2026-10-07T06:00:53Z |
 | Mathematics Instructor | Programming Pathshala | New Delhi, Delhi, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/mathematics-instructor-at-programming-pathshala-4474299733) | 2026-10-06T20:21:14Z |
