@@ -1,5 +1,7 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| DSA Trainer | iamneo - An NIIT Venture | India | 1 month ago | [link](https://in.linkedin.com/jobs/view/dsa-trainer-at-iamneo-an-niit-venture-4466812142) | 2026-10-31T05:41:46Z |
+| Technical Trainer | iamneo - An NIIT Venture | Coimbatore, Tamil Nadu, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/technical-trainer-at-iamneo-an-niit-venture-4476282931) | 2026-10-31T05:41:46Z |
 | Assistant Professor - Computer Science Engineering | Dayananda Sagar University | Bengaluru, Karnataka, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/assistant-professor-computer-science-engineering-at-dayananda-sagar-university-4484929361) | 2026-10-30T16:42:25Z |
 | Subject Matter Expert - Data Science & Machine Learning | FACE Prep | Coimbatore, Tamil Nadu, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/subject-matter-expert-data-science-machine-learning-at-face-prep-4484503840) | 2026-10-30T16:42:25Z |
 | Assistant Faculty - Judiciary | Drishti IAS | Delhi, Delhi, India | 1 month ago | [link](https://in.linkedin.com/jobs/view/assistant-faculty-judiciary-at-drishti-ias-4465012218) | 2026-10-30T16:42:25Z |
@@ -24,7 +26,7 @@
 | Aptitude Trainer | FACE Prep | Amaravati, Andhra Pradesh, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/aptitude-trainer-at-face-prep-4481852156) | 2026-10-28T05:43:12Z |
 | Research Associate | Indian School of Business | Hyderabad, Telangana, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/research-associate-at-indian-school-of-business-4471258741) | 2026-10-27T20:05:56Z |
 | Academic Associate - Operations Management | Indian School of Business | Sas Nagar, Punjab, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/academic-associate-operations-management-at-indian-school-of-business-4481421439) | 2026-10-27T20:05:56Z |
-| NDA Faculty - Maths | Time Hack Consulting | Dalhousie, Himachal Pradesh, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/nda-faculty-maths-at-time-hack-consulting-4482935261) | 2026-10-27T10:35:14Z |
+| NDA Faculty - Maths | Time Hack Consulting | Dalhousie, Himachal Pradesh, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/nda-faculty-maths-at-time-hack-consulting-4482935261) | 2026-10-27T10:35:14Z |
 | Mathematics Faculty for JEE | Bidyasagar Classes - India | Bhubaneswar, Odisha, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/mathematics-faculty-for-jee-at-bidyasagar-classes-india-4481078897) | 2026-10-27T10:35:14Z |
 | Applied AI Trainer | Stride School of Business | Jaipur, Rajasthan, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/applied-ai-trainer-at-stride-school-of-business-4482938283) | 2026-10-27T10:35:14Z |
 | WE’RE HIRING | ASSISTANT PROFESSOR –AI & Data Analytics with Finance | Arrivo Education Private Limited | Ahmedabad, Gujarat, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/we%E2%80%99re-hiring-assistant-professor-%E2%80%93ai-data-analytics-with-finance-at-arrivo-education-private-limited-4481042300) | 2026-10-25T14:23:32Z |
