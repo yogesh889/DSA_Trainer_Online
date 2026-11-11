@@ -1,5 +1,6 @@
 | Title | Company | Location | Posted | Link | First seen |
 | --- | --- | --- | --- | --- | --- |
+| Senior Software Engineer + Instructor (DSA) | Newton School of Technology | Sonipat, Haryana, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/senior-software-engineer-%2B-instructor-dsa-at-newton-school-of-technology-4488359863) | 2026-11-11T21:58:42Z |
 | Maths Faculty | FACE Prep | Karur, Tamil Nadu, India | 2 days ago | [link](https://in.linkedin.com/jobs/view/maths-faculty-at-face-prep-4487676881) | 2026-11-11T12:43:44Z |
 | Lead Faculty & Faculty Associates – AI | GreenAI Services Private Limited | Greater Kolkata Area | 1 day ago | [link](https://in.linkedin.com/jobs/view/lead-faculty-faculty-associates-%E2%80%93-ai-at-greenai-services-private-limited-4487463040) | 2026-11-11T12:43:44Z |
 | Data Science Trainer | STUVALLEY TECHNOLOGY | Gurgaon, Haryana, India | 1 day ago | [link](https://in.linkedin.com/jobs/view/data-science-trainer-at-stuvalley-technology-4488312645) | 2026-11-11T12:43:44Z |
@@ -59,7 +60,7 @@
 | Aptitude Trainer | Six Phrase | Veranda | Amaravati, Andhra Pradesh, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/aptitude-trainer-at-six-phrase-veranda-4483628135) | 2026-10-29T05:49:03Z |
 | Technical Frontier Educator | Cognizant | Chennai, Tamil Nadu, India | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/technical-frontier-educator-at-cognizant-4447198260) | 2026-10-29T05:49:03Z |
 | Chess Coach (Tamil) | Chennai Chess Club | Chennai, Tamil Nadu, India | 1 week ago | [link](https://in.linkedin.com/jobs/view/chess-coach-tamil-at-chennai-chess-club-4479357215) | 2026-10-29T05:49:03Z |
-| Trainer (Assessments) | ETS | Greater Delhi Area | 5 days ago | [link](https://in.linkedin.com/jobs/view/trainer-assessments-at-ets-4422444131) | 2026-10-29T05:49:03Z |
+| Trainer (Assessments) | ETS | Greater Delhi Area | 2 weeks ago | [link](https://in.linkedin.com/jobs/view/trainer-assessments-at-ets-4422444131) | 2026-10-29T05:49:03Z |
 | Mathematics Teacher | Shri Vile Parle Kelavani Mandal | Mumbai, Maharashtra, India | 4 days ago | [link](https://in.linkedin.com/jobs/view/mathematics-teacher-at-shri-vile-parle-kelavani-mandal-4481028480) | 2026-10-29T05:49:03Z |
 | Hiring Immediately Maths Faculty IIT (Gujarati+ English Medium)For a Reputed Institute Located In Gandhinagar, Gujarat - ( Job ID - 24393) | EH Jobs | Gandhinagar, Gujarat, India | 3 weeks ago | [link](https://in.linkedin.com/jobs/view/hiring-immediately-maths-faculty-iit-gujarati%2B-english-medium-for-a-reputed-institute-located-in-gandhinagar-gujarat-job-id-24393-at-eh-jobs-4475418610) | 2026-10-29T05:49:03Z |
 | Mathematics Faculty - JEE/CET Level | IITians Science Point | Mumbai, Maharashtra, India | 5 days ago | [link](https://in.linkedin.com/jobs/view/mathematics-faculty-jee-cet-level-at-iitians-science-point-4481097716) | 2026-10-29T00:00:42Z |
